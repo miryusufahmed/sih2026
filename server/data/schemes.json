@@ -1,0 +1,5612 @@
+[
+  {
+    "id": "scheme-1",
+    "name": "Maharashtra Industrial Scheme 1 - 2021",
+    "shortName": "Maha-Scheme-1",
+    "department": "Department 1, Government of Maharashtra",
+    "category": "MSME & Self-Employment Generation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on MSME & Self-Employment Generation.",
+    "objectives": [
+      "Promote growth in sector 1",
+      "Create 100 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Textile",
+        "Food Processing / Agro-based"
+      ],
+      "districts": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "11% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "16 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-2",
+    "name": "Maharashtra Industrial Scheme 2 - 2022",
+    "shortName": "Maha-Scheme-2",
+    "department": "Department 2, Government of Maharashtra",
+    "category": "Single Window Clearance & Regulatory Facilitation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Single Window Clearance & Regulatory Facilitation.",
+    "objectives": [
+      "Promote growth in sector 2",
+      "Create 200 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Food Processing / Agro-based",
+        "Pharmaceuticals"
+      ],
+      "districts": [
+        "Nagpur",
+        "Thane"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "12% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "17 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-3",
+    "name": "Maharashtra Industrial Scheme 3 - 2023",
+    "shortName": "Maha-Scheme-3",
+    "department": "Department 3, Government of Maharashtra",
+    "category": "Information Technology, Data Centers & DeepTech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Information Technology, Data Centers & DeepTech.",
+    "objectives": [
+      "Promote growth in sector 3",
+      "Create 300 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Pharmaceuticals",
+        "Electronics & Electrical"
+      ],
+      "districts": [
+        "Thane",
+        "Nashik"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "13% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "18 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-4",
+    "name": "Maharashtra Industrial Scheme 4 - 2024",
+    "shortName": "Maha-Scheme-4",
+    "department": "Department 4, Government of Maharashtra",
+    "category": "Textiles, Apparel & Ginning",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Textiles, Apparel & Ginning.",
+    "objectives": [
+      "Promote growth in sector 4",
+      "Create 400 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Electronics & Electrical",
+        "Chemicals"
+      ],
+      "districts": [
+        "Nashik",
+        "Chhatrapati Sambhajinagar"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "14% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "19 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-5",
+    "name": "Maharashtra Industrial Scheme 5 - 2025",
+    "shortName": "Maha-Scheme-5",
+    "department": "Department 5, Government of Maharashtra",
+    "category": "Electric Mobility & Clean Tech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Electric Mobility & Clean Tech.",
+    "objectives": [
+      "Promote growth in sector 5",
+      "Create 500 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Chemicals",
+        "General Manufacturing (MSME)"
+      ],
+      "districts": [
+        "Chhatrapati Sambhajinagar",
+        "Solapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "15% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "20 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-6",
+    "name": "Maharashtra Industrial Scheme 6 - 2020",
+    "shortName": "Maha-Scheme-6",
+    "department": "Department 6, Government of Maharashtra",
+    "category": "Agriculture, Cold Chain & Food Processing",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Agriculture, Cold Chain & Food Processing.",
+    "objectives": [
+      "Promote growth in sector 6",
+      "Create 600 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "General Manufacturing (MSME)",
+        "Information Technology (IT/ITES)"
+      ],
+      "districts": [
+        "Solapur",
+        "Amravati"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "16% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "21 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-7",
+    "name": "Maharashtra Industrial Scheme 7 - 2021",
+    "shortName": "Maha-Scheme-7",
+    "department": "Department 7, Government of Maharashtra",
+    "category": "Social Justice & Affirmative Industrial Action",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Social Justice & Affirmative Industrial Action.",
+    "objectives": [
+      "Promote growth in sector 7",
+      "Create 700 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Information Technology (IT/ITES)",
+        "Data Centers & Cloud Infrastructure"
+      ],
+      "districts": [
+        "Amravati",
+        "Kolhapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "17% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "22 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-8",
+    "name": "Maharashtra Industrial Scheme 8 - 2022",
+    "shortName": "Maha-Scheme-8",
+    "department": "Department 8, Government of Maharashtra",
+    "category": "Women Empowerment & Industrial Equity",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Women Empowerment & Industrial Equity.",
+    "objectives": [
+      "Promote growth in sector 8",
+      "Create 800 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Data Centers & Cloud Infrastructure",
+        "Artificial Intelligence & Machine Learning"
+      ],
+      "districts": [
+        "Kolhapur",
+        "Sangli"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "18% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "23 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-9",
+    "name": "Maharashtra Industrial Scheme 9 - 2023",
+    "shortName": "Maha-Scheme-9",
+    "department": "Department 9, Government of Maharashtra",
+    "category": "Regional Equity & Backward Area Acceleration",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Regional Equity & Backward Area Acceleration.",
+    "objectives": [
+      "Promote growth in sector 9",
+      "Create 900 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Artificial Intelligence & Machine Learning",
+        "Automobile & Auto Components"
+      ],
+      "districts": [
+        "Sangli",
+        "Pune"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "19% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "24 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-10",
+    "name": "Maharashtra Industrial Scheme 10 - 2024",
+    "shortName": "Maha-Scheme-10",
+    "department": "Department 0, Government of Maharashtra",
+    "category": "Manufacturing & Industrial Development",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Manufacturing & Industrial Development.",
+    "objectives": [
+      "Promote growth in sector 10",
+      "Create 1000 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Automobile & Auto Components",
+        "Textile"
+      ],
+      "districts": [
+        "Pune",
+        "Mumbai"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "20% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "25 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-11",
+    "name": "Maharashtra Industrial Scheme 11 - 2025",
+    "shortName": "Maha-Scheme-11",
+    "department": "Department 1, Government of Maharashtra",
+    "category": "MSME & Self-Employment Generation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on MSME & Self-Employment Generation.",
+    "objectives": [
+      "Promote growth in sector 11",
+      "Create 1100 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Textile",
+        "Food Processing / Agro-based"
+      ],
+      "districts": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "21% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "26 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-12",
+    "name": "Maharashtra Industrial Scheme 12 - 2020",
+    "shortName": "Maha-Scheme-12",
+    "department": "Department 2, Government of Maharashtra",
+    "category": "Single Window Clearance & Regulatory Facilitation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Single Window Clearance & Regulatory Facilitation.",
+    "objectives": [
+      "Promote growth in sector 12",
+      "Create 1200 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Food Processing / Agro-based",
+        "Pharmaceuticals"
+      ],
+      "districts": [
+        "Nagpur",
+        "Thane"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "22% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "27 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-13",
+    "name": "Maharashtra Industrial Scheme 13 - 2021",
+    "shortName": "Maha-Scheme-13",
+    "department": "Department 3, Government of Maharashtra",
+    "category": "Information Technology, Data Centers & DeepTech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Information Technology, Data Centers & DeepTech.",
+    "objectives": [
+      "Promote growth in sector 13",
+      "Create 1300 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Pharmaceuticals",
+        "Electronics & Electrical"
+      ],
+      "districts": [
+        "Thane",
+        "Nashik"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "23% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "28 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-14",
+    "name": "Maharashtra Industrial Scheme 14 - 2022",
+    "shortName": "Maha-Scheme-14",
+    "department": "Department 4, Government of Maharashtra",
+    "category": "Textiles, Apparel & Ginning",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Textiles, Apparel & Ginning.",
+    "objectives": [
+      "Promote growth in sector 14",
+      "Create 1400 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Electronics & Electrical",
+        "Chemicals"
+      ],
+      "districts": [
+        "Nashik",
+        "Chhatrapati Sambhajinagar"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "24% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "29 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-15",
+    "name": "Maharashtra Industrial Scheme 15 - 2023",
+    "shortName": "Maha-Scheme-15",
+    "department": "Department 5, Government of Maharashtra",
+    "category": "Electric Mobility & Clean Tech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Electric Mobility & Clean Tech.",
+    "objectives": [
+      "Promote growth in sector 15",
+      "Create 1500 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Chemicals",
+        "General Manufacturing (MSME)"
+      ],
+      "districts": [
+        "Chhatrapati Sambhajinagar",
+        "Solapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "25% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "30 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-16",
+    "name": "Maharashtra Industrial Scheme 16 - 2024",
+    "shortName": "Maha-Scheme-16",
+    "department": "Department 6, Government of Maharashtra",
+    "category": "Agriculture, Cold Chain & Food Processing",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Agriculture, Cold Chain & Food Processing.",
+    "objectives": [
+      "Promote growth in sector 16",
+      "Create 1600 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "General Manufacturing (MSME)",
+        "Information Technology (IT/ITES)"
+      ],
+      "districts": [
+        "Solapur",
+        "Amravati"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "26% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "31 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-17",
+    "name": "Maharashtra Industrial Scheme 17 - 2025",
+    "shortName": "Maha-Scheme-17",
+    "department": "Department 7, Government of Maharashtra",
+    "category": "Social Justice & Affirmative Industrial Action",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Social Justice & Affirmative Industrial Action.",
+    "objectives": [
+      "Promote growth in sector 17",
+      "Create 1700 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Information Technology (IT/ITES)",
+        "Data Centers & Cloud Infrastructure"
+      ],
+      "districts": [
+        "Amravati",
+        "Kolhapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "27% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "32 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-18",
+    "name": "Maharashtra Industrial Scheme 18 - 2020",
+    "shortName": "Maha-Scheme-18",
+    "department": "Department 8, Government of Maharashtra",
+    "category": "Women Empowerment & Industrial Equity",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Women Empowerment & Industrial Equity.",
+    "objectives": [
+      "Promote growth in sector 18",
+      "Create 1800 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Data Centers & Cloud Infrastructure",
+        "Artificial Intelligence & Machine Learning"
+      ],
+      "districts": [
+        "Kolhapur",
+        "Sangli"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "28% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "33 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-19",
+    "name": "Maharashtra Industrial Scheme 19 - 2021",
+    "shortName": "Maha-Scheme-19",
+    "department": "Department 9, Government of Maharashtra",
+    "category": "Regional Equity & Backward Area Acceleration",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Regional Equity & Backward Area Acceleration.",
+    "objectives": [
+      "Promote growth in sector 19",
+      "Create 1900 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Artificial Intelligence & Machine Learning",
+        "Automobile & Auto Components"
+      ],
+      "districts": [
+        "Sangli",
+        "Pune"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "29% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "34 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-20",
+    "name": "Maharashtra Industrial Scheme 20 - 2022",
+    "shortName": "Maha-Scheme-20",
+    "department": "Department 0, Government of Maharashtra",
+    "category": "Manufacturing & Industrial Development",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Manufacturing & Industrial Development.",
+    "objectives": [
+      "Promote growth in sector 20",
+      "Create 2000 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Automobile & Auto Components",
+        "Textile"
+      ],
+      "districts": [
+        "Pune",
+        "Mumbai"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "30% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "35 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-21",
+    "name": "Maharashtra Industrial Scheme 21 - 2023",
+    "shortName": "Maha-Scheme-21",
+    "department": "Department 1, Government of Maharashtra",
+    "category": "MSME & Self-Employment Generation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on MSME & Self-Employment Generation.",
+    "objectives": [
+      "Promote growth in sector 21",
+      "Create 2100 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Textile",
+        "Food Processing / Agro-based"
+      ],
+      "districts": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "31% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "36 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-22",
+    "name": "Maharashtra Industrial Scheme 22 - 2024",
+    "shortName": "Maha-Scheme-22",
+    "department": "Department 2, Government of Maharashtra",
+    "category": "Single Window Clearance & Regulatory Facilitation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Single Window Clearance & Regulatory Facilitation.",
+    "objectives": [
+      "Promote growth in sector 22",
+      "Create 2200 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Food Processing / Agro-based",
+        "Pharmaceuticals"
+      ],
+      "districts": [
+        "Nagpur",
+        "Thane"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "32% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "37 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-23",
+    "name": "Maharashtra Industrial Scheme 23 - 2025",
+    "shortName": "Maha-Scheme-23",
+    "department": "Department 3, Government of Maharashtra",
+    "category": "Information Technology, Data Centers & DeepTech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Information Technology, Data Centers & DeepTech.",
+    "objectives": [
+      "Promote growth in sector 23",
+      "Create 2300 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Pharmaceuticals",
+        "Electronics & Electrical"
+      ],
+      "districts": [
+        "Thane",
+        "Nashik"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "33% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "38 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-24",
+    "name": "Maharashtra Industrial Scheme 24 - 2020",
+    "shortName": "Maha-Scheme-24",
+    "department": "Department 4, Government of Maharashtra",
+    "category": "Textiles, Apparel & Ginning",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Textiles, Apparel & Ginning.",
+    "objectives": [
+      "Promote growth in sector 24",
+      "Create 2400 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Electronics & Electrical",
+        "Chemicals"
+      ],
+      "districts": [
+        "Nashik",
+        "Chhatrapati Sambhajinagar"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "34% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "39 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-25",
+    "name": "Maharashtra Industrial Scheme 25 - 2021",
+    "shortName": "Maha-Scheme-25",
+    "department": "Department 5, Government of Maharashtra",
+    "category": "Electric Mobility & Clean Tech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Electric Mobility & Clean Tech.",
+    "objectives": [
+      "Promote growth in sector 25",
+      "Create 2500 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Chemicals",
+        "General Manufacturing (MSME)"
+      ],
+      "districts": [
+        "Chhatrapati Sambhajinagar",
+        "Solapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "35% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "40 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-26",
+    "name": "Maharashtra Industrial Scheme 26 - 2022",
+    "shortName": "Maha-Scheme-26",
+    "department": "Department 6, Government of Maharashtra",
+    "category": "Agriculture, Cold Chain & Food Processing",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Agriculture, Cold Chain & Food Processing.",
+    "objectives": [
+      "Promote growth in sector 26",
+      "Create 2600 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "General Manufacturing (MSME)",
+        "Information Technology (IT/ITES)"
+      ],
+      "districts": [
+        "Solapur",
+        "Amravati"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "36% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "41 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-27",
+    "name": "Maharashtra Industrial Scheme 27 - 2023",
+    "shortName": "Maha-Scheme-27",
+    "department": "Department 7, Government of Maharashtra",
+    "category": "Social Justice & Affirmative Industrial Action",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Social Justice & Affirmative Industrial Action.",
+    "objectives": [
+      "Promote growth in sector 27",
+      "Create 2700 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Information Technology (IT/ITES)",
+        "Data Centers & Cloud Infrastructure"
+      ],
+      "districts": [
+        "Amravati",
+        "Kolhapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "37% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "42 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-28",
+    "name": "Maharashtra Industrial Scheme 28 - 2024",
+    "shortName": "Maha-Scheme-28",
+    "department": "Department 8, Government of Maharashtra",
+    "category": "Women Empowerment & Industrial Equity",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Women Empowerment & Industrial Equity.",
+    "objectives": [
+      "Promote growth in sector 28",
+      "Create 2800 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Data Centers & Cloud Infrastructure",
+        "Artificial Intelligence & Machine Learning"
+      ],
+      "districts": [
+        "Kolhapur",
+        "Sangli"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "38% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "43 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-29",
+    "name": "Maharashtra Industrial Scheme 29 - 2025",
+    "shortName": "Maha-Scheme-29",
+    "department": "Department 9, Government of Maharashtra",
+    "category": "Regional Equity & Backward Area Acceleration",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Regional Equity & Backward Area Acceleration.",
+    "objectives": [
+      "Promote growth in sector 29",
+      "Create 2900 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Artificial Intelligence & Machine Learning",
+        "Automobile & Auto Components"
+      ],
+      "districts": [
+        "Sangli",
+        "Pune"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "39% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "44 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-30",
+    "name": "Maharashtra Industrial Scheme 30 - 2020",
+    "shortName": "Maha-Scheme-30",
+    "department": "Department 0, Government of Maharashtra",
+    "category": "Manufacturing & Industrial Development",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Manufacturing & Industrial Development.",
+    "objectives": [
+      "Promote growth in sector 30",
+      "Create 3000 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Automobile & Auto Components",
+        "Textile"
+      ],
+      "districts": [
+        "Pune",
+        "Mumbai"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "10% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "15 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-31",
+    "name": "Maharashtra Industrial Scheme 31 - 2021",
+    "shortName": "Maha-Scheme-31",
+    "department": "Department 1, Government of Maharashtra",
+    "category": "MSME & Self-Employment Generation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on MSME & Self-Employment Generation.",
+    "objectives": [
+      "Promote growth in sector 31",
+      "Create 3100 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Textile",
+        "Food Processing / Agro-based"
+      ],
+      "districts": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "11% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "16 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-32",
+    "name": "Maharashtra Industrial Scheme 32 - 2022",
+    "shortName": "Maha-Scheme-32",
+    "department": "Department 2, Government of Maharashtra",
+    "category": "Single Window Clearance & Regulatory Facilitation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Single Window Clearance & Regulatory Facilitation.",
+    "objectives": [
+      "Promote growth in sector 32",
+      "Create 3200 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Food Processing / Agro-based",
+        "Pharmaceuticals"
+      ],
+      "districts": [
+        "Nagpur",
+        "Thane"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "12% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "17 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-33",
+    "name": "Maharashtra Industrial Scheme 33 - 2023",
+    "shortName": "Maha-Scheme-33",
+    "department": "Department 3, Government of Maharashtra",
+    "category": "Information Technology, Data Centers & DeepTech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Information Technology, Data Centers & DeepTech.",
+    "objectives": [
+      "Promote growth in sector 33",
+      "Create 3300 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Pharmaceuticals",
+        "Electronics & Electrical"
+      ],
+      "districts": [
+        "Thane",
+        "Nashik"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "13% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "18 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-34",
+    "name": "Maharashtra Industrial Scheme 34 - 2024",
+    "shortName": "Maha-Scheme-34",
+    "department": "Department 4, Government of Maharashtra",
+    "category": "Textiles, Apparel & Ginning",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Textiles, Apparel & Ginning.",
+    "objectives": [
+      "Promote growth in sector 34",
+      "Create 3400 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Electronics & Electrical",
+        "Chemicals"
+      ],
+      "districts": [
+        "Nashik",
+        "Chhatrapati Sambhajinagar"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "14% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "19 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-35",
+    "name": "Maharashtra Industrial Scheme 35 - 2025",
+    "shortName": "Maha-Scheme-35",
+    "department": "Department 5, Government of Maharashtra",
+    "category": "Electric Mobility & Clean Tech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Electric Mobility & Clean Tech.",
+    "objectives": [
+      "Promote growth in sector 35",
+      "Create 3500 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Chemicals",
+        "General Manufacturing (MSME)"
+      ],
+      "districts": [
+        "Chhatrapati Sambhajinagar",
+        "Solapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "15% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "20 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-36",
+    "name": "Maharashtra Industrial Scheme 36 - 2020",
+    "shortName": "Maha-Scheme-36",
+    "department": "Department 6, Government of Maharashtra",
+    "category": "Agriculture, Cold Chain & Food Processing",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Agriculture, Cold Chain & Food Processing.",
+    "objectives": [
+      "Promote growth in sector 36",
+      "Create 3600 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "General Manufacturing (MSME)",
+        "Information Technology (IT/ITES)"
+      ],
+      "districts": [
+        "Solapur",
+        "Amravati"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "16% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "21 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-37",
+    "name": "Maharashtra Industrial Scheme 37 - 2021",
+    "shortName": "Maha-Scheme-37",
+    "department": "Department 7, Government of Maharashtra",
+    "category": "Social Justice & Affirmative Industrial Action",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Social Justice & Affirmative Industrial Action.",
+    "objectives": [
+      "Promote growth in sector 37",
+      "Create 3700 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Information Technology (IT/ITES)",
+        "Data Centers & Cloud Infrastructure"
+      ],
+      "districts": [
+        "Amravati",
+        "Kolhapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "17% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "22 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-38",
+    "name": "Maharashtra Industrial Scheme 38 - 2022",
+    "shortName": "Maha-Scheme-38",
+    "department": "Department 8, Government of Maharashtra",
+    "category": "Women Empowerment & Industrial Equity",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Women Empowerment & Industrial Equity.",
+    "objectives": [
+      "Promote growth in sector 38",
+      "Create 3800 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Data Centers & Cloud Infrastructure",
+        "Artificial Intelligence & Machine Learning"
+      ],
+      "districts": [
+        "Kolhapur",
+        "Sangli"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "18% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "23 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-39",
+    "name": "Maharashtra Industrial Scheme 39 - 2023",
+    "shortName": "Maha-Scheme-39",
+    "department": "Department 9, Government of Maharashtra",
+    "category": "Regional Equity & Backward Area Acceleration",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Regional Equity & Backward Area Acceleration.",
+    "objectives": [
+      "Promote growth in sector 39",
+      "Create 3900 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Artificial Intelligence & Machine Learning",
+        "Automobile & Auto Components"
+      ],
+      "districts": [
+        "Sangli",
+        "Pune"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "19% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "24 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-40",
+    "name": "Maharashtra Industrial Scheme 40 - 2024",
+    "shortName": "Maha-Scheme-40",
+    "department": "Department 0, Government of Maharashtra",
+    "category": "Manufacturing & Industrial Development",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Manufacturing & Industrial Development.",
+    "objectives": [
+      "Promote growth in sector 40",
+      "Create 4000 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Automobile & Auto Components",
+        "Textile"
+      ],
+      "districts": [
+        "Pune",
+        "Mumbai"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "20% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "25 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-41",
+    "name": "Maharashtra Industrial Scheme 41 - 2025",
+    "shortName": "Maha-Scheme-41",
+    "department": "Department 1, Government of Maharashtra",
+    "category": "MSME & Self-Employment Generation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on MSME & Self-Employment Generation.",
+    "objectives": [
+      "Promote growth in sector 41",
+      "Create 4100 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Textile",
+        "Food Processing / Agro-based"
+      ],
+      "districts": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "21% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "26 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-42",
+    "name": "Maharashtra Industrial Scheme 42 - 2020",
+    "shortName": "Maha-Scheme-42",
+    "department": "Department 2, Government of Maharashtra",
+    "category": "Single Window Clearance & Regulatory Facilitation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Single Window Clearance & Regulatory Facilitation.",
+    "objectives": [
+      "Promote growth in sector 42",
+      "Create 4200 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Food Processing / Agro-based",
+        "Pharmaceuticals"
+      ],
+      "districts": [
+        "Nagpur",
+        "Thane"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "22% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "27 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-43",
+    "name": "Maharashtra Industrial Scheme 43 - 2021",
+    "shortName": "Maha-Scheme-43",
+    "department": "Department 3, Government of Maharashtra",
+    "category": "Information Technology, Data Centers & DeepTech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Information Technology, Data Centers & DeepTech.",
+    "objectives": [
+      "Promote growth in sector 43",
+      "Create 4300 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Pharmaceuticals",
+        "Electronics & Electrical"
+      ],
+      "districts": [
+        "Thane",
+        "Nashik"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "23% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "28 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-44",
+    "name": "Maharashtra Industrial Scheme 44 - 2022",
+    "shortName": "Maha-Scheme-44",
+    "department": "Department 4, Government of Maharashtra",
+    "category": "Textiles, Apparel & Ginning",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Textiles, Apparel & Ginning.",
+    "objectives": [
+      "Promote growth in sector 44",
+      "Create 4400 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Electronics & Electrical",
+        "Chemicals"
+      ],
+      "districts": [
+        "Nashik",
+        "Chhatrapati Sambhajinagar"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "24% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "29 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-45",
+    "name": "Maharashtra Industrial Scheme 45 - 2023",
+    "shortName": "Maha-Scheme-45",
+    "department": "Department 5, Government of Maharashtra",
+    "category": "Electric Mobility & Clean Tech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Electric Mobility & Clean Tech.",
+    "objectives": [
+      "Promote growth in sector 45",
+      "Create 4500 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Chemicals",
+        "General Manufacturing (MSME)"
+      ],
+      "districts": [
+        "Chhatrapati Sambhajinagar",
+        "Solapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "25% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "30 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-46",
+    "name": "Maharashtra Industrial Scheme 46 - 2024",
+    "shortName": "Maha-Scheme-46",
+    "department": "Department 6, Government of Maharashtra",
+    "category": "Agriculture, Cold Chain & Food Processing",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Agriculture, Cold Chain & Food Processing.",
+    "objectives": [
+      "Promote growth in sector 46",
+      "Create 4600 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "General Manufacturing (MSME)",
+        "Information Technology (IT/ITES)"
+      ],
+      "districts": [
+        "Solapur",
+        "Amravati"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "26% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "31 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-47",
+    "name": "Maharashtra Industrial Scheme 47 - 2025",
+    "shortName": "Maha-Scheme-47",
+    "department": "Department 7, Government of Maharashtra",
+    "category": "Social Justice & Affirmative Industrial Action",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Social Justice & Affirmative Industrial Action.",
+    "objectives": [
+      "Promote growth in sector 47",
+      "Create 4700 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Information Technology (IT/ITES)",
+        "Data Centers & Cloud Infrastructure"
+      ],
+      "districts": [
+        "Amravati",
+        "Kolhapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "27% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "32 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-48",
+    "name": "Maharashtra Industrial Scheme 48 - 2020",
+    "shortName": "Maha-Scheme-48",
+    "department": "Department 8, Government of Maharashtra",
+    "category": "Women Empowerment & Industrial Equity",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Women Empowerment & Industrial Equity.",
+    "objectives": [
+      "Promote growth in sector 48",
+      "Create 4800 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Data Centers & Cloud Infrastructure",
+        "Artificial Intelligence & Machine Learning"
+      ],
+      "districts": [
+        "Kolhapur",
+        "Sangli"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "28% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "33 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-49",
+    "name": "Maharashtra Industrial Scheme 49 - 2021",
+    "shortName": "Maha-Scheme-49",
+    "department": "Department 9, Government of Maharashtra",
+    "category": "Regional Equity & Backward Area Acceleration",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Regional Equity & Backward Area Acceleration.",
+    "objectives": [
+      "Promote growth in sector 49",
+      "Create 4900 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Artificial Intelligence & Machine Learning",
+        "Automobile & Auto Components"
+      ],
+      "districts": [
+        "Sangli",
+        "Pune"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "29% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "34 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-50",
+    "name": "Maharashtra Industrial Scheme 50 - 2022",
+    "shortName": "Maha-Scheme-50",
+    "department": "Department 0, Government of Maharashtra",
+    "category": "Manufacturing & Industrial Development",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Manufacturing & Industrial Development.",
+    "objectives": [
+      "Promote growth in sector 50",
+      "Create 5000 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Automobile & Auto Components",
+        "Textile"
+      ],
+      "districts": [
+        "Pune",
+        "Mumbai"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "30% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "35 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-51",
+    "name": "Maharashtra Industrial Scheme 51 - 2023",
+    "shortName": "Maha-Scheme-51",
+    "department": "Department 1, Government of Maharashtra",
+    "category": "MSME & Self-Employment Generation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on MSME & Self-Employment Generation.",
+    "objectives": [
+      "Promote growth in sector 51",
+      "Create 5100 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Textile",
+        "Food Processing / Agro-based"
+      ],
+      "districts": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "31% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "36 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-52",
+    "name": "Maharashtra Industrial Scheme 52 - 2024",
+    "shortName": "Maha-Scheme-52",
+    "department": "Department 2, Government of Maharashtra",
+    "category": "Single Window Clearance & Regulatory Facilitation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Single Window Clearance & Regulatory Facilitation.",
+    "objectives": [
+      "Promote growth in sector 52",
+      "Create 5200 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Food Processing / Agro-based",
+        "Pharmaceuticals"
+      ],
+      "districts": [
+        "Nagpur",
+        "Thane"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "32% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "37 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-53",
+    "name": "Maharashtra Industrial Scheme 53 - 2025",
+    "shortName": "Maha-Scheme-53",
+    "department": "Department 3, Government of Maharashtra",
+    "category": "Information Technology, Data Centers & DeepTech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Information Technology, Data Centers & DeepTech.",
+    "objectives": [
+      "Promote growth in sector 53",
+      "Create 5300 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Pharmaceuticals",
+        "Electronics & Electrical"
+      ],
+      "districts": [
+        "Thane",
+        "Nashik"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "33% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "38 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-54",
+    "name": "Maharashtra Industrial Scheme 54 - 2020",
+    "shortName": "Maha-Scheme-54",
+    "department": "Department 4, Government of Maharashtra",
+    "category": "Textiles, Apparel & Ginning",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Textiles, Apparel & Ginning.",
+    "objectives": [
+      "Promote growth in sector 54",
+      "Create 5400 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Electronics & Electrical",
+        "Chemicals"
+      ],
+      "districts": [
+        "Nashik",
+        "Chhatrapati Sambhajinagar"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "34% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "39 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-55",
+    "name": "Maharashtra Industrial Scheme 55 - 2021",
+    "shortName": "Maha-Scheme-55",
+    "department": "Department 5, Government of Maharashtra",
+    "category": "Electric Mobility & Clean Tech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Electric Mobility & Clean Tech.",
+    "objectives": [
+      "Promote growth in sector 55",
+      "Create 5500 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Chemicals",
+        "General Manufacturing (MSME)"
+      ],
+      "districts": [
+        "Chhatrapati Sambhajinagar",
+        "Solapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "35% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "40 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-56",
+    "name": "Maharashtra Industrial Scheme 56 - 2022",
+    "shortName": "Maha-Scheme-56",
+    "department": "Department 6, Government of Maharashtra",
+    "category": "Agriculture, Cold Chain & Food Processing",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Agriculture, Cold Chain & Food Processing.",
+    "objectives": [
+      "Promote growth in sector 56",
+      "Create 5600 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "General Manufacturing (MSME)",
+        "Information Technology (IT/ITES)"
+      ],
+      "districts": [
+        "Solapur",
+        "Amravati"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "36% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "41 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-57",
+    "name": "Maharashtra Industrial Scheme 57 - 2023",
+    "shortName": "Maha-Scheme-57",
+    "department": "Department 7, Government of Maharashtra",
+    "category": "Social Justice & Affirmative Industrial Action",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Social Justice & Affirmative Industrial Action.",
+    "objectives": [
+      "Promote growth in sector 57",
+      "Create 5700 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Information Technology (IT/ITES)",
+        "Data Centers & Cloud Infrastructure"
+      ],
+      "districts": [
+        "Amravati",
+        "Kolhapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "37% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "42 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-58",
+    "name": "Maharashtra Industrial Scheme 58 - 2024",
+    "shortName": "Maha-Scheme-58",
+    "department": "Department 8, Government of Maharashtra",
+    "category": "Women Empowerment & Industrial Equity",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Women Empowerment & Industrial Equity.",
+    "objectives": [
+      "Promote growth in sector 58",
+      "Create 5800 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Data Centers & Cloud Infrastructure",
+        "Artificial Intelligence & Machine Learning"
+      ],
+      "districts": [
+        "Kolhapur",
+        "Sangli"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "38% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "43 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-59",
+    "name": "Maharashtra Industrial Scheme 59 - 2025",
+    "shortName": "Maha-Scheme-59",
+    "department": "Department 9, Government of Maharashtra",
+    "category": "Regional Equity & Backward Area Acceleration",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Regional Equity & Backward Area Acceleration.",
+    "objectives": [
+      "Promote growth in sector 59",
+      "Create 5900 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Artificial Intelligence & Machine Learning",
+        "Automobile & Auto Components"
+      ],
+      "districts": [
+        "Sangli",
+        "Pune"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "39% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "44 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-60",
+    "name": "Maharashtra Industrial Scheme 60 - 2020",
+    "shortName": "Maha-Scheme-60",
+    "department": "Department 0, Government of Maharashtra",
+    "category": "Manufacturing & Industrial Development",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Manufacturing & Industrial Development.",
+    "objectives": [
+      "Promote growth in sector 60",
+      "Create 6000 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Automobile & Auto Components",
+        "Textile"
+      ],
+      "districts": [
+        "Pune",
+        "Mumbai"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "10% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "15 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-61",
+    "name": "Maharashtra Industrial Scheme 61 - 2021",
+    "shortName": "Maha-Scheme-61",
+    "department": "Department 1, Government of Maharashtra",
+    "category": "MSME & Self-Employment Generation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on MSME & Self-Employment Generation.",
+    "objectives": [
+      "Promote growth in sector 61",
+      "Create 6100 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Textile",
+        "Food Processing / Agro-based"
+      ],
+      "districts": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "11% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "16 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-62",
+    "name": "Maharashtra Industrial Scheme 62 - 2022",
+    "shortName": "Maha-Scheme-62",
+    "department": "Department 2, Government of Maharashtra",
+    "category": "Single Window Clearance & Regulatory Facilitation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Single Window Clearance & Regulatory Facilitation.",
+    "objectives": [
+      "Promote growth in sector 62",
+      "Create 6200 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Food Processing / Agro-based",
+        "Pharmaceuticals"
+      ],
+      "districts": [
+        "Nagpur",
+        "Thane"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "12% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "17 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-63",
+    "name": "Maharashtra Industrial Scheme 63 - 2023",
+    "shortName": "Maha-Scheme-63",
+    "department": "Department 3, Government of Maharashtra",
+    "category": "Information Technology, Data Centers & DeepTech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Information Technology, Data Centers & DeepTech.",
+    "objectives": [
+      "Promote growth in sector 63",
+      "Create 6300 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Pharmaceuticals",
+        "Electronics & Electrical"
+      ],
+      "districts": [
+        "Thane",
+        "Nashik"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "13% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "18 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-64",
+    "name": "Maharashtra Industrial Scheme 64 - 2024",
+    "shortName": "Maha-Scheme-64",
+    "department": "Department 4, Government of Maharashtra",
+    "category": "Textiles, Apparel & Ginning",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Textiles, Apparel & Ginning.",
+    "objectives": [
+      "Promote growth in sector 64",
+      "Create 6400 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Electronics & Electrical",
+        "Chemicals"
+      ],
+      "districts": [
+        "Nashik",
+        "Chhatrapati Sambhajinagar"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "14% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "19 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-65",
+    "name": "Maharashtra Industrial Scheme 65 - 2025",
+    "shortName": "Maha-Scheme-65",
+    "department": "Department 5, Government of Maharashtra",
+    "category": "Electric Mobility & Clean Tech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Electric Mobility & Clean Tech.",
+    "objectives": [
+      "Promote growth in sector 65",
+      "Create 6500 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Chemicals",
+        "General Manufacturing (MSME)"
+      ],
+      "districts": [
+        "Chhatrapati Sambhajinagar",
+        "Solapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "15% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "20 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-66",
+    "name": "Maharashtra Industrial Scheme 66 - 2020",
+    "shortName": "Maha-Scheme-66",
+    "department": "Department 6, Government of Maharashtra",
+    "category": "Agriculture, Cold Chain & Food Processing",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Agriculture, Cold Chain & Food Processing.",
+    "objectives": [
+      "Promote growth in sector 66",
+      "Create 6600 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "General Manufacturing (MSME)",
+        "Information Technology (IT/ITES)"
+      ],
+      "districts": [
+        "Solapur",
+        "Amravati"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "16% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "21 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-67",
+    "name": "Maharashtra Industrial Scheme 67 - 2021",
+    "shortName": "Maha-Scheme-67",
+    "department": "Department 7, Government of Maharashtra",
+    "category": "Social Justice & Affirmative Industrial Action",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Social Justice & Affirmative Industrial Action.",
+    "objectives": [
+      "Promote growth in sector 67",
+      "Create 6700 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Information Technology (IT/ITES)",
+        "Data Centers & Cloud Infrastructure"
+      ],
+      "districts": [
+        "Amravati",
+        "Kolhapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "17% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "22 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-68",
+    "name": "Maharashtra Industrial Scheme 68 - 2022",
+    "shortName": "Maha-Scheme-68",
+    "department": "Department 8, Government of Maharashtra",
+    "category": "Women Empowerment & Industrial Equity",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Women Empowerment & Industrial Equity.",
+    "objectives": [
+      "Promote growth in sector 68",
+      "Create 6800 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Data Centers & Cloud Infrastructure",
+        "Artificial Intelligence & Machine Learning"
+      ],
+      "districts": [
+        "Kolhapur",
+        "Sangli"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "18% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "23 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-69",
+    "name": "Maharashtra Industrial Scheme 69 - 2023",
+    "shortName": "Maha-Scheme-69",
+    "department": "Department 9, Government of Maharashtra",
+    "category": "Regional Equity & Backward Area Acceleration",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Regional Equity & Backward Area Acceleration.",
+    "objectives": [
+      "Promote growth in sector 69",
+      "Create 6900 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Artificial Intelligence & Machine Learning",
+        "Automobile & Auto Components"
+      ],
+      "districts": [
+        "Sangli",
+        "Pune"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "19% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "24 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-70",
+    "name": "Maharashtra Industrial Scheme 70 - 2024",
+    "shortName": "Maha-Scheme-70",
+    "department": "Department 0, Government of Maharashtra",
+    "category": "Manufacturing & Industrial Development",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Manufacturing & Industrial Development.",
+    "objectives": [
+      "Promote growth in sector 70",
+      "Create 7000 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Automobile & Auto Components",
+        "Textile"
+      ],
+      "districts": [
+        "Pune",
+        "Mumbai"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "20% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "25 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-71",
+    "name": "Maharashtra Industrial Scheme 71 - 2025",
+    "shortName": "Maha-Scheme-71",
+    "department": "Department 1, Government of Maharashtra",
+    "category": "MSME & Self-Employment Generation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on MSME & Self-Employment Generation.",
+    "objectives": [
+      "Promote growth in sector 71",
+      "Create 7100 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Textile",
+        "Food Processing / Agro-based"
+      ],
+      "districts": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "21% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "26 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-72",
+    "name": "Maharashtra Industrial Scheme 72 - 2020",
+    "shortName": "Maha-Scheme-72",
+    "department": "Department 2, Government of Maharashtra",
+    "category": "Single Window Clearance & Regulatory Facilitation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Single Window Clearance & Regulatory Facilitation.",
+    "objectives": [
+      "Promote growth in sector 72",
+      "Create 7200 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Food Processing / Agro-based",
+        "Pharmaceuticals"
+      ],
+      "districts": [
+        "Nagpur",
+        "Thane"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "22% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "27 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-73",
+    "name": "Maharashtra Industrial Scheme 73 - 2021",
+    "shortName": "Maha-Scheme-73",
+    "department": "Department 3, Government of Maharashtra",
+    "category": "Information Technology, Data Centers & DeepTech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Information Technology, Data Centers & DeepTech.",
+    "objectives": [
+      "Promote growth in sector 73",
+      "Create 7300 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Pharmaceuticals",
+        "Electronics & Electrical"
+      ],
+      "districts": [
+        "Thane",
+        "Nashik"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "23% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "28 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-74",
+    "name": "Maharashtra Industrial Scheme 74 - 2022",
+    "shortName": "Maha-Scheme-74",
+    "department": "Department 4, Government of Maharashtra",
+    "category": "Textiles, Apparel & Ginning",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Textiles, Apparel & Ginning.",
+    "objectives": [
+      "Promote growth in sector 74",
+      "Create 7400 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Electronics & Electrical",
+        "Chemicals"
+      ],
+      "districts": [
+        "Nashik",
+        "Chhatrapati Sambhajinagar"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "24% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "29 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-75",
+    "name": "Maharashtra Industrial Scheme 75 - 2023",
+    "shortName": "Maha-Scheme-75",
+    "department": "Department 5, Government of Maharashtra",
+    "category": "Electric Mobility & Clean Tech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Electric Mobility & Clean Tech.",
+    "objectives": [
+      "Promote growth in sector 75",
+      "Create 7500 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Chemicals",
+        "General Manufacturing (MSME)"
+      ],
+      "districts": [
+        "Chhatrapati Sambhajinagar",
+        "Solapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "25% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "30 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-76",
+    "name": "Maharashtra Industrial Scheme 76 - 2024",
+    "shortName": "Maha-Scheme-76",
+    "department": "Department 6, Government of Maharashtra",
+    "category": "Agriculture, Cold Chain & Food Processing",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Agriculture, Cold Chain & Food Processing.",
+    "objectives": [
+      "Promote growth in sector 76",
+      "Create 7600 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "General Manufacturing (MSME)",
+        "Information Technology (IT/ITES)"
+      ],
+      "districts": [
+        "Solapur",
+        "Amravati"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "26% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "31 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-77",
+    "name": "Maharashtra Industrial Scheme 77 - 2025",
+    "shortName": "Maha-Scheme-77",
+    "department": "Department 7, Government of Maharashtra",
+    "category": "Social Justice & Affirmative Industrial Action",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Social Justice & Affirmative Industrial Action.",
+    "objectives": [
+      "Promote growth in sector 77",
+      "Create 7700 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Information Technology (IT/ITES)",
+        "Data Centers & Cloud Infrastructure"
+      ],
+      "districts": [
+        "Amravati",
+        "Kolhapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "27% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "32 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-78",
+    "name": "Maharashtra Industrial Scheme 78 - 2020",
+    "shortName": "Maha-Scheme-78",
+    "department": "Department 8, Government of Maharashtra",
+    "category": "Women Empowerment & Industrial Equity",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Women Empowerment & Industrial Equity.",
+    "objectives": [
+      "Promote growth in sector 78",
+      "Create 7800 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Data Centers & Cloud Infrastructure",
+        "Artificial Intelligence & Machine Learning"
+      ],
+      "districts": [
+        "Kolhapur",
+        "Sangli"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "28% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "33 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-79",
+    "name": "Maharashtra Industrial Scheme 79 - 2021",
+    "shortName": "Maha-Scheme-79",
+    "department": "Department 9, Government of Maharashtra",
+    "category": "Regional Equity & Backward Area Acceleration",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Regional Equity & Backward Area Acceleration.",
+    "objectives": [
+      "Promote growth in sector 79",
+      "Create 7900 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Artificial Intelligence & Machine Learning",
+        "Automobile & Auto Components"
+      ],
+      "districts": [
+        "Sangli",
+        "Pune"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "29% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "34 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-80",
+    "name": "Maharashtra Industrial Scheme 80 - 2022",
+    "shortName": "Maha-Scheme-80",
+    "department": "Department 0, Government of Maharashtra",
+    "category": "Manufacturing & Industrial Development",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Manufacturing & Industrial Development.",
+    "objectives": [
+      "Promote growth in sector 80",
+      "Create 8000 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Automobile & Auto Components",
+        "Textile"
+      ],
+      "districts": [
+        "Pune",
+        "Mumbai"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "30% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "35 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-81",
+    "name": "Maharashtra Industrial Scheme 81 - 2023",
+    "shortName": "Maha-Scheme-81",
+    "department": "Department 1, Government of Maharashtra",
+    "category": "MSME & Self-Employment Generation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on MSME & Self-Employment Generation.",
+    "objectives": [
+      "Promote growth in sector 81",
+      "Create 8100 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Textile",
+        "Food Processing / Agro-based"
+      ],
+      "districts": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "31% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "36 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-82",
+    "name": "Maharashtra Industrial Scheme 82 - 2024",
+    "shortName": "Maha-Scheme-82",
+    "department": "Department 2, Government of Maharashtra",
+    "category": "Single Window Clearance & Regulatory Facilitation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Single Window Clearance & Regulatory Facilitation.",
+    "objectives": [
+      "Promote growth in sector 82",
+      "Create 8200 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Food Processing / Agro-based",
+        "Pharmaceuticals"
+      ],
+      "districts": [
+        "Nagpur",
+        "Thane"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "32% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "37 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-83",
+    "name": "Maharashtra Industrial Scheme 83 - 2025",
+    "shortName": "Maha-Scheme-83",
+    "department": "Department 3, Government of Maharashtra",
+    "category": "Information Technology, Data Centers & DeepTech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Information Technology, Data Centers & DeepTech.",
+    "objectives": [
+      "Promote growth in sector 83",
+      "Create 8300 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Pharmaceuticals",
+        "Electronics & Electrical"
+      ],
+      "districts": [
+        "Thane",
+        "Nashik"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "33% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "38 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-84",
+    "name": "Maharashtra Industrial Scheme 84 - 2020",
+    "shortName": "Maha-Scheme-84",
+    "department": "Department 4, Government of Maharashtra",
+    "category": "Textiles, Apparel & Ginning",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Textiles, Apparel & Ginning.",
+    "objectives": [
+      "Promote growth in sector 84",
+      "Create 8400 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Electronics & Electrical",
+        "Chemicals"
+      ],
+      "districts": [
+        "Nashik",
+        "Chhatrapati Sambhajinagar"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "34% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "39 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-85",
+    "name": "Maharashtra Industrial Scheme 85 - 2021",
+    "shortName": "Maha-Scheme-85",
+    "department": "Department 5, Government of Maharashtra",
+    "category": "Electric Mobility & Clean Tech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Electric Mobility & Clean Tech.",
+    "objectives": [
+      "Promote growth in sector 85",
+      "Create 8500 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Chemicals",
+        "General Manufacturing (MSME)"
+      ],
+      "districts": [
+        "Chhatrapati Sambhajinagar",
+        "Solapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "35% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "40 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-86",
+    "name": "Maharashtra Industrial Scheme 86 - 2022",
+    "shortName": "Maha-Scheme-86",
+    "department": "Department 6, Government of Maharashtra",
+    "category": "Agriculture, Cold Chain & Food Processing",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Agriculture, Cold Chain & Food Processing.",
+    "objectives": [
+      "Promote growth in sector 86",
+      "Create 8600 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "General Manufacturing (MSME)",
+        "Information Technology (IT/ITES)"
+      ],
+      "districts": [
+        "Solapur",
+        "Amravati"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "36% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "41 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-87",
+    "name": "Maharashtra Industrial Scheme 87 - 2023",
+    "shortName": "Maha-Scheme-87",
+    "department": "Department 7, Government of Maharashtra",
+    "category": "Social Justice & Affirmative Industrial Action",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Social Justice & Affirmative Industrial Action.",
+    "objectives": [
+      "Promote growth in sector 87",
+      "Create 8700 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Information Technology (IT/ITES)",
+        "Data Centers & Cloud Infrastructure"
+      ],
+      "districts": [
+        "Amravati",
+        "Kolhapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "37% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "42 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-88",
+    "name": "Maharashtra Industrial Scheme 88 - 2024",
+    "shortName": "Maha-Scheme-88",
+    "department": "Department 8, Government of Maharashtra",
+    "category": "Women Empowerment & Industrial Equity",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Women Empowerment & Industrial Equity.",
+    "objectives": [
+      "Promote growth in sector 88",
+      "Create 8800 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Data Centers & Cloud Infrastructure",
+        "Artificial Intelligence & Machine Learning"
+      ],
+      "districts": [
+        "Kolhapur",
+        "Sangli"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "38% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "43 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-89",
+    "name": "Maharashtra Industrial Scheme 89 - 2025",
+    "shortName": "Maha-Scheme-89",
+    "department": "Department 9, Government of Maharashtra",
+    "category": "Regional Equity & Backward Area Acceleration",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Regional Equity & Backward Area Acceleration.",
+    "objectives": [
+      "Promote growth in sector 89",
+      "Create 8900 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Artificial Intelligence & Machine Learning",
+        "Automobile & Auto Components"
+      ],
+      "districts": [
+        "Sangli",
+        "Pune"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "39% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "44 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-90",
+    "name": "Maharashtra Industrial Scheme 90 - 2020",
+    "shortName": "Maha-Scheme-90",
+    "department": "Department 0, Government of Maharashtra",
+    "category": "Manufacturing & Industrial Development",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Manufacturing & Industrial Development.",
+    "objectives": [
+      "Promote growth in sector 90",
+      "Create 9000 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Automobile & Auto Components",
+        "Textile"
+      ],
+      "districts": [
+        "Pune",
+        "Mumbai"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "10% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "15 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-91",
+    "name": "Maharashtra Industrial Scheme 91 - 2021",
+    "shortName": "Maha-Scheme-91",
+    "department": "Department 1, Government of Maharashtra",
+    "category": "MSME & Self-Employment Generation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on MSME & Self-Employment Generation.",
+    "objectives": [
+      "Promote growth in sector 91",
+      "Create 9100 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Textile",
+        "Food Processing / Agro-based"
+      ],
+      "districts": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "11% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "16 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-92",
+    "name": "Maharashtra Industrial Scheme 92 - 2022",
+    "shortName": "Maha-Scheme-92",
+    "department": "Department 2, Government of Maharashtra",
+    "category": "Single Window Clearance & Regulatory Facilitation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Single Window Clearance & Regulatory Facilitation.",
+    "objectives": [
+      "Promote growth in sector 92",
+      "Create 9200 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Food Processing / Agro-based",
+        "Pharmaceuticals"
+      ],
+      "districts": [
+        "Nagpur",
+        "Thane"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "12% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "17 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-93",
+    "name": "Maharashtra Industrial Scheme 93 - 2023",
+    "shortName": "Maha-Scheme-93",
+    "department": "Department 3, Government of Maharashtra",
+    "category": "Information Technology, Data Centers & DeepTech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Information Technology, Data Centers & DeepTech.",
+    "objectives": [
+      "Promote growth in sector 93",
+      "Create 9300 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Pharmaceuticals",
+        "Electronics & Electrical"
+      ],
+      "districts": [
+        "Thane",
+        "Nashik"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "13% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "18 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-94",
+    "name": "Maharashtra Industrial Scheme 94 - 2024",
+    "shortName": "Maha-Scheme-94",
+    "department": "Department 4, Government of Maharashtra",
+    "category": "Textiles, Apparel & Ginning",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Textiles, Apparel & Ginning.",
+    "objectives": [
+      "Promote growth in sector 94",
+      "Create 9400 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Electronics & Electrical",
+        "Chemicals"
+      ],
+      "districts": [
+        "Nashik",
+        "Chhatrapati Sambhajinagar"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "14% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "19 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-95",
+    "name": "Maharashtra Industrial Scheme 95 - 2025",
+    "shortName": "Maha-Scheme-95",
+    "department": "Department 5, Government of Maharashtra",
+    "category": "Electric Mobility & Clean Tech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Electric Mobility & Clean Tech.",
+    "objectives": [
+      "Promote growth in sector 95",
+      "Create 9500 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Chemicals",
+        "General Manufacturing (MSME)"
+      ],
+      "districts": [
+        "Chhatrapati Sambhajinagar",
+        "Solapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "15% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "20 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-96",
+    "name": "Maharashtra Industrial Scheme 96 - 2020",
+    "shortName": "Maha-Scheme-96",
+    "department": "Department 6, Government of Maharashtra",
+    "category": "Agriculture, Cold Chain & Food Processing",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Agriculture, Cold Chain & Food Processing.",
+    "objectives": [
+      "Promote growth in sector 96",
+      "Create 9600 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "General Manufacturing (MSME)",
+        "Information Technology (IT/ITES)"
+      ],
+      "districts": [
+        "Solapur",
+        "Amravati"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "16% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "21 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-97",
+    "name": "Maharashtra Industrial Scheme 97 - 2021",
+    "shortName": "Maha-Scheme-97",
+    "department": "Department 7, Government of Maharashtra",
+    "category": "Social Justice & Affirmative Industrial Action",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Social Justice & Affirmative Industrial Action.",
+    "objectives": [
+      "Promote growth in sector 97",
+      "Create 9700 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Information Technology (IT/ITES)",
+        "Data Centers & Cloud Infrastructure"
+      ],
+      "districts": [
+        "Amravati",
+        "Kolhapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "17% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "22 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-98",
+    "name": "Maharashtra Industrial Scheme 98 - 2022",
+    "shortName": "Maha-Scheme-98",
+    "department": "Department 8, Government of Maharashtra",
+    "category": "Women Empowerment & Industrial Equity",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Women Empowerment & Industrial Equity.",
+    "objectives": [
+      "Promote growth in sector 98",
+      "Create 9800 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Data Centers & Cloud Infrastructure",
+        "Artificial Intelligence & Machine Learning"
+      ],
+      "districts": [
+        "Kolhapur",
+        "Sangli"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "18% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "23 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-99",
+    "name": "Maharashtra Industrial Scheme 99 - 2023",
+    "shortName": "Maha-Scheme-99",
+    "department": "Department 9, Government of Maharashtra",
+    "category": "Regional Equity & Backward Area Acceleration",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Regional Equity & Backward Area Acceleration.",
+    "objectives": [
+      "Promote growth in sector 99",
+      "Create 9900 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Artificial Intelligence & Machine Learning",
+        "Automobile & Auto Components"
+      ],
+      "districts": [
+        "Sangli",
+        "Pune"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "19% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "24 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-100",
+    "name": "Maharashtra Industrial Scheme 100 - 2024",
+    "shortName": "Maha-Scheme-100",
+    "department": "Department 0, Government of Maharashtra",
+    "category": "Manufacturing & Industrial Development",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Manufacturing & Industrial Development.",
+    "objectives": [
+      "Promote growth in sector 100",
+      "Create 10000 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Automobile & Auto Components",
+        "Textile"
+      ],
+      "districts": [
+        "Pune",
+        "Mumbai"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "20% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "25 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-101",
+    "name": "Maharashtra Industrial Scheme 101 - 2025",
+    "shortName": "Maha-Scheme-101",
+    "department": "Department 1, Government of Maharashtra",
+    "category": "MSME & Self-Employment Generation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on MSME & Self-Employment Generation.",
+    "objectives": [
+      "Promote growth in sector 101",
+      "Create 10100 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Textile",
+        "Food Processing / Agro-based"
+      ],
+      "districts": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "21% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "26 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-102",
+    "name": "Maharashtra Industrial Scheme 102 - 2020",
+    "shortName": "Maha-Scheme-102",
+    "department": "Department 2, Government of Maharashtra",
+    "category": "Single Window Clearance & Regulatory Facilitation",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Single Window Clearance & Regulatory Facilitation.",
+    "objectives": [
+      "Promote growth in sector 102",
+      "Create 10200 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Food Processing / Agro-based",
+        "Pharmaceuticals"
+      ],
+      "districts": [
+        "Nagpur",
+        "Thane"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "22% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "27 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-103",
+    "name": "Maharashtra Industrial Scheme 103 - 2021",
+    "shortName": "Maha-Scheme-103",
+    "department": "Department 3, Government of Maharashtra",
+    "category": "Information Technology, Data Centers & DeepTech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Information Technology, Data Centers & DeepTech.",
+    "objectives": [
+      "Promote growth in sector 103",
+      "Create 10300 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Pharmaceuticals",
+        "Electronics & Electrical"
+      ],
+      "districts": [
+        "Thane",
+        "Nashik"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "23% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "28 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-104",
+    "name": "Maharashtra Industrial Scheme 104 - 2022",
+    "shortName": "Maha-Scheme-104",
+    "department": "Department 4, Government of Maharashtra",
+    "category": "Textiles, Apparel & Ginning",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Textiles, Apparel & Ginning.",
+    "objectives": [
+      "Promote growth in sector 104",
+      "Create 10400 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Electronics & Electrical",
+        "Chemicals"
+      ],
+      "districts": [
+        "Nashik",
+        "Chhatrapati Sambhajinagar"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "24% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "29 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-105",
+    "name": "Maharashtra Industrial Scheme 105 - 2023",
+    "shortName": "Maha-Scheme-105",
+    "department": "Department 5, Government of Maharashtra",
+    "category": "Electric Mobility & Clean Tech",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Electric Mobility & Clean Tech.",
+    "objectives": [
+      "Promote growth in sector 105",
+      "Create 10500 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Chemicals",
+        "General Manufacturing (MSME)"
+      ],
+      "districts": [
+        "Chhatrapati Sambhajinagar",
+        "Solapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "25% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "30 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-106",
+    "name": "Maharashtra Industrial Scheme 106 - 2024",
+    "shortName": "Maha-Scheme-106",
+    "department": "Department 6, Government of Maharashtra",
+    "category": "Agriculture, Cold Chain & Food Processing",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Agriculture, Cold Chain & Food Processing.",
+    "objectives": [
+      "Promote growth in sector 106",
+      "Create 10600 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "General Manufacturing (MSME)",
+        "Information Technology (IT/ITES)"
+      ],
+      "districts": [
+        "Solapur",
+        "Amravati"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "26% on eligible capital investment",
+      "interestSubsidy": "3% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "31 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-107",
+    "name": "Maharashtra Industrial Scheme 107 - 2025",
+    "shortName": "Maha-Scheme-107",
+    "department": "Department 7, Government of Maharashtra",
+    "category": "Social Justice & Affirmative Industrial Action",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Social Justice & Affirmative Industrial Action.",
+    "objectives": [
+      "Promote growth in sector 107",
+      "Create 10700 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Information Technology (IT/ITES)",
+        "Data Centers & Cloud Infrastructure"
+      ],
+      "districts": [
+        "Amravati",
+        "Kolhapur"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "27% on eligible capital investment",
+      "interestSubsidy": "4% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "32 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-108",
+    "name": "Maharashtra Industrial Scheme 108 - 2020",
+    "shortName": "Maha-Scheme-108",
+    "department": "Department 8, Government of Maharashtra",
+    "category": "Women Empowerment & Industrial Equity",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Women Empowerment & Industrial Equity.",
+    "objectives": [
+      "Promote growth in sector 108",
+      "Create 10800 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Data Centers & Cloud Infrastructure",
+        "Artificial Intelligence & Machine Learning"
+      ],
+      "districts": [
+        "Kolhapur",
+        "Sangli"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "28% on eligible capital investment",
+      "interestSubsidy": "5% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "33 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-109",
+    "name": "Maharashtra Industrial Scheme 109 - 2021",
+    "shortName": "Maha-Scheme-109",
+    "department": "Department 9, Government of Maharashtra",
+    "category": "Regional Equity & Backward Area Acceleration",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Regional Equity & Backward Area Acceleration.",
+    "objectives": [
+      "Promote growth in sector 109",
+      "Create 10900 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Artificial Intelligence & Machine Learning",
+        "Automobile & Auto Components"
+      ],
+      "districts": [
+        "Sangli",
+        "Pune"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "29% on eligible capital investment",
+      "interestSubsidy": "6% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "34 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  },
+  {
+    "id": "scheme-110",
+    "name": "Maharashtra Industrial Scheme 110 - 2022",
+    "shortName": "Maha-Scheme-110",
+    "department": "Department 0, Government of Maharashtra",
+    "category": "Manufacturing & Industrial Development",
+    "overview": "This is a generated mock scheme for testing purposes, focusing on Manufacturing & Industrial Development.",
+    "objectives": [
+      "Promote growth in sector 110",
+      "Create 11000 jobs in the region",
+      "Support MSMEs with capital investment"
+    ],
+    "eligibility": {
+      "scale": [
+        "Micro",
+        "Small",
+        "Medium",
+        "Large",
+        "Mega"
+      ],
+      "sectors": [
+        "Automobile & Auto Components",
+        "Textile"
+      ],
+      "districts": [
+        "Pune",
+        "Mumbai"
+      ],
+      "criteria": [
+        "Must be registered in Maharashtra",
+        "Valid Udyam Registration"
+      ]
+    },
+    "financialIncentives": {
+      "capitalSubsidy": "30% on eligible capital investment",
+      "interestSubsidy": "2% interest subvention",
+      "stampDutyExemption": "100% stamp duty exemption"
+    },
+    "applicationProcess": {
+      "portal": "https://di.maharashtra.gov.in",
+      "nodalAgency": "District Industries Centre (DIC)",
+      "turnaroundTime": "35 working days",
+      "requiredDocuments": [
+        "Udyam Registration",
+        "DPR",
+        "PAN",
+        "GST"
+      ]
+    },
+    "active": true
+  }
+]

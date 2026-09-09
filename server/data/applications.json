@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "MH-IND-2026-5001",
+    "companyName": "Mock Enterprise 1 Pvt. Ltd.",
+    "ownerName": "Owner Name 1",
+    "industryType": "Textile",
+    "district": "Mumbai",
+    "investmentCr": 3,
+    "submittedOn": "2026-09-08",
+    "pan": "AABC0001D",
+    "gst": "27AABC0001D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5002",
+    "companyName": "Mock Enterprise 2 Pvt. Ltd.",
+    "ownerName": "Owner Name 2",
+    "industryType": "Food Processing / Agro-based",
+    "district": "Nagpur",
+    "investmentCr": 4.5,
+    "submittedOn": "2026-09-07",
+    "pan": "AABC0002D",
+    "gst": "27AABC0002D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5003",
+    "companyName": "Mock Enterprise 3 Pvt. Ltd.",
+    "ownerName": "Owner Name 3",
+    "industryType": "Pharmaceuticals",
+    "district": "Thane",
+    "investmentCr": 6,
+    "submittedOn": "2026-09-06",
+    "pan": "AABC0003D",
+    "gst": "27AABC0003D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5004",
+    "companyName": "Mock Enterprise 4 Pvt. Ltd.",
+    "ownerName": "Owner Name 4",
+    "industryType": "Electronics & Electrical",
+    "district": "Nashik",
+    "investmentCr": 7.5,
+    "submittedOn": "2026-09-05",
+    "pan": "AABC0004D",
+    "gst": "27AABC0004D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5005",
+    "companyName": "Mock Enterprise 5 Pvt. Ltd.",
+    "ownerName": "Owner Name 5",
+    "industryType": "Chemicals",
+    "district": "Chhatrapati Sambhajinagar",
+    "investmentCr": 9,
+    "submittedOn": "2026-09-04",
+    "pan": "AABC0005D",
+    "gst": "27AABC0005D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5006",
+    "companyName": "Mock Enterprise 6 Pvt. Ltd.",
+    "ownerName": "Owner Name 6",
+    "industryType": "General Manufacturing (MSME)",
+    "district": "Solapur",
+    "investmentCr": 10.5,
+    "submittedOn": "2026-09-03",
+    "pan": "AABC0006D",
+    "gst": "27AABC0006D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5007",
+    "companyName": "Mock Enterprise 7 Pvt. Ltd.",
+    "ownerName": "Owner Name 7",
+    "industryType": "Information Technology (IT/ITES)",
+    "district": "Amravati",
+    "investmentCr": 12,
+    "submittedOn": "2026-09-02",
+    "pan": "AABC0007D",
+    "gst": "27AABC0007D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5008",
+    "companyName": "Mock Enterprise 8 Pvt. Ltd.",
+    "ownerName": "Owner Name 8",
+    "industryType": "Data Centers & Cloud Infrastructure",
+    "district": "Kolhapur",
+    "investmentCr": 13.5,
+    "submittedOn": "2026-09-01",
+    "pan": "AABC0008D",
+    "gst": "27AABC0008D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5009",
+    "companyName": "Mock Enterprise 9 Pvt. Ltd.",
+    "ownerName": "Owner Name 9",
+    "industryType": "Artificial Intelligence & Machine Learning",
+    "district": "Sangli",
+    "investmentCr": 15,
+    "submittedOn": "2026-08-31",
+    "pan": "AABC0009D",
+    "gst": "27AABC0009D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5010",
+    "companyName": "Mock Enterprise 10 Pvt. Ltd.",
+    "ownerName": "Owner Name 10",
+    "industryType": "Automobile & Auto Components",
+    "district": "Pune",
+    "investmentCr": 16.5,
+    "submittedOn": "2026-08-30",
+    "pan": "AABC0010D",
+    "gst": "27AABC0010D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5011",
+    "companyName": "Mock Enterprise 11 Pvt. Ltd.",
+    "ownerName": "Owner Name 11",
+    "industryType": "Textile",
+    "district": "Mumbai",
+    "investmentCr": 18,
+    "submittedOn": "2026-08-29",
+    "pan": "AABC0011D",
+    "gst": "27AABC0011D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5012",
+    "companyName": "Mock Enterprise 12 Pvt. Ltd.",
+    "ownerName": "Owner Name 12",
+    "industryType": "Food Processing / Agro-based",
+    "district": "Nagpur",
+    "investmentCr": 19.5,
+    "submittedOn": "2026-08-28",
+    "pan": "AABC0012D",
+    "gst": "27AABC0012D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5013",
+    "companyName": "Mock Enterprise 13 Pvt. Ltd.",
+    "ownerName": "Owner Name 13",
+    "industryType": "Pharmaceuticals",
+    "district": "Thane",
+    "investmentCr": 21,
+    "submittedOn": "2026-08-27",
+    "pan": "AABC0013D",
+    "gst": "27AABC0013D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5014",
+    "companyName": "Mock Enterprise 14 Pvt. Ltd.",
+    "ownerName": "Owner Name 14",
+    "industryType": "Electronics & Electrical",
+    "district": "Nashik",
+    "investmentCr": 22.5,
+    "submittedOn": "2026-08-26",
+    "pan": "AABC0014D",
+    "gst": "27AABC0014D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5015",
+    "companyName": "Mock Enterprise 15 Pvt. Ltd.",
+    "ownerName": "Owner Name 15",
+    "industryType": "Chemicals",
+    "district": "Chhatrapati Sambhajinagar",
+    "investmentCr": 24,
+    "submittedOn": "2026-08-25",
+    "pan": "AABC0015D",
+    "gst": "27AABC0015D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5016",
+    "companyName": "Mock Enterprise 16 Pvt. Ltd.",
+    "ownerName": "Owner Name 16",
+    "industryType": "General Manufacturing (MSME)",
+    "district": "Solapur",
+    "investmentCr": 25.5,
+    "submittedOn": "2026-08-24",
+    "pan": "AABC0016D",
+    "gst": "27AABC0016D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5017",
+    "companyName": "Mock Enterprise 17 Pvt. Ltd.",
+    "ownerName": "Owner Name 17",
+    "industryType": "Information Technology (IT/ITES)",
+    "district": "Amravati",
+    "investmentCr": 27,
+    "submittedOn": "2026-08-23",
+    "pan": "AABC0017D",
+    "gst": "27AABC0017D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5018",
+    "companyName": "Mock Enterprise 18 Pvt. Ltd.",
+    "ownerName": "Owner Name 18",
+    "industryType": "Data Centers & Cloud Infrastructure",
+    "district": "Kolhapur",
+    "investmentCr": 28.5,
+    "submittedOn": "2026-08-22",
+    "pan": "AABC0018D",
+    "gst": "27AABC0018D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5019",
+    "companyName": "Mock Enterprise 19 Pvt. Ltd.",
+    "ownerName": "Owner Name 19",
+    "industryType": "Artificial Intelligence & Machine Learning",
+    "district": "Sangli",
+    "investmentCr": 30,
+    "submittedOn": "2026-08-21",
+    "pan": "AABC0019D",
+    "gst": "27AABC0019D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5020",
+    "companyName": "Mock Enterprise 20 Pvt. Ltd.",
+    "ownerName": "Owner Name 20",
+    "industryType": "Automobile & Auto Components",
+    "district": "Pune",
+    "investmentCr": 31.5,
+    "submittedOn": "2026-08-20",
+    "pan": "AABC0020D",
+    "gst": "27AABC0020D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5021",
+    "companyName": "Mock Enterprise 21 Pvt. Ltd.",
+    "ownerName": "Owner Name 21",
+    "industryType": "Textile",
+    "district": "Mumbai",
+    "investmentCr": 33,
+    "submittedOn": "2026-08-19",
+    "pan": "AABC0021D",
+    "gst": "27AABC0021D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5022",
+    "companyName": "Mock Enterprise 22 Pvt. Ltd.",
+    "ownerName": "Owner Name 22",
+    "industryType": "Food Processing / Agro-based",
+    "district": "Nagpur",
+    "investmentCr": 34.5,
+    "submittedOn": "2026-08-18",
+    "pan": "AABC0022D",
+    "gst": "27AABC0022D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5023",
+    "companyName": "Mock Enterprise 23 Pvt. Ltd.",
+    "ownerName": "Owner Name 23",
+    "industryType": "Pharmaceuticals",
+    "district": "Thane",
+    "investmentCr": 36,
+    "submittedOn": "2026-08-17",
+    "pan": "AABC0023D",
+    "gst": "27AABC0023D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5024",
+    "companyName": "Mock Enterprise 24 Pvt. Ltd.",
+    "ownerName": "Owner Name 24",
+    "industryType": "Electronics & Electrical",
+    "district": "Nashik",
+    "investmentCr": 37.5,
+    "submittedOn": "2026-08-16",
+    "pan": "AABC0024D",
+    "gst": "27AABC0024D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5025",
+    "companyName": "Mock Enterprise 25 Pvt. Ltd.",
+    "ownerName": "Owner Name 25",
+    "industryType": "Chemicals",
+    "district": "Chhatrapati Sambhajinagar",
+    "investmentCr": 39,
+    "submittedOn": "2026-08-15",
+    "pan": "AABC0025D",
+    "gst": "27AABC0025D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5026",
+    "companyName": "Mock Enterprise 26 Pvt. Ltd.",
+    "ownerName": "Owner Name 26",
+    "industryType": "General Manufacturing (MSME)",
+    "district": "Solapur",
+    "investmentCr": 40.5,
+    "submittedOn": "2026-08-14",
+    "pan": "AABC0026D",
+    "gst": "27AABC0026D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5027",
+    "companyName": "Mock Enterprise 27 Pvt. Ltd.",
+    "ownerName": "Owner Name 27",
+    "industryType": "Information Technology (IT/ITES)",
+    "district": "Amravati",
+    "investmentCr": 42,
+    "submittedOn": "2026-08-13",
+    "pan": "AABC0027D",
+    "gst": "27AABC0027D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5028",
+    "companyName": "Mock Enterprise 28 Pvt. Ltd.",
+    "ownerName": "Owner Name 28",
+    "industryType": "Data Centers & Cloud Infrastructure",
+    "district": "Kolhapur",
+    "investmentCr": 43.5,
+    "submittedOn": "2026-08-12",
+    "pan": "AABC0028D",
+    "gst": "27AABC0028D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5029",
+    "companyName": "Mock Enterprise 29 Pvt. Ltd.",
+    "ownerName": "Owner Name 29",
+    "industryType": "Artificial Intelligence & Machine Learning",
+    "district": "Sangli",
+    "investmentCr": 45,
+    "submittedOn": "2026-08-11",
+    "pan": "AABC0029D",
+    "gst": "27AABC0029D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5030",
+    "companyName": "Mock Enterprise 30 Pvt. Ltd.",
+    "ownerName": "Owner Name 30",
+    "industryType": "Automobile & Auto Components",
+    "district": "Pune",
+    "investmentCr": 46.5,
+    "submittedOn": "2026-08-10",
+    "pan": "AABC0030D",
+    "gst": "27AABC0030D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5031",
+    "companyName": "Mock Enterprise 31 Pvt. Ltd.",
+    "ownerName": "Owner Name 31",
+    "industryType": "Textile",
+    "district": "Mumbai",
+    "investmentCr": 48,
+    "submittedOn": "2026-08-09",
+    "pan": "AABC0031D",
+    "gst": "27AABC0031D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5032",
+    "companyName": "Mock Enterprise 32 Pvt. Ltd.",
+    "ownerName": "Owner Name 32",
+    "industryType": "Food Processing / Agro-based",
+    "district": "Nagpur",
+    "investmentCr": 49.5,
+    "submittedOn": "2026-08-08",
+    "pan": "AABC0032D",
+    "gst": "27AABC0032D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5033",
+    "companyName": "Mock Enterprise 33 Pvt. Ltd.",
+    "ownerName": "Owner Name 33",
+    "industryType": "Pharmaceuticals",
+    "district": "Thane",
+    "investmentCr": 51,
+    "submittedOn": "2026-08-07",
+    "pan": "AABC0033D",
+    "gst": "27AABC0033D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5034",
+    "companyName": "Mock Enterprise 34 Pvt. Ltd.",
+    "ownerName": "Owner Name 34",
+    "industryType": "Electronics & Electrical",
+    "district": "Nashik",
+    "investmentCr": 52.5,
+    "submittedOn": "2026-08-06",
+    "pan": "AABC0034D",
+    "gst": "27AABC0034D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5035",
+    "companyName": "Mock Enterprise 35 Pvt. Ltd.",
+    "ownerName": "Owner Name 35",
+    "industryType": "Chemicals",
+    "district": "Chhatrapati Sambhajinagar",
+    "investmentCr": 54,
+    "submittedOn": "2026-08-05",
+    "pan": "AABC0035D",
+    "gst": "27AABC0035D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5036",
+    "companyName": "Mock Enterprise 36 Pvt. Ltd.",
+    "ownerName": "Owner Name 36",
+    "industryType": "General Manufacturing (MSME)",
+    "district": "Solapur",
+    "investmentCr": 55.5,
+    "submittedOn": "2026-08-04",
+    "pan": "AABC0036D",
+    "gst": "27AABC0036D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5037",
+    "companyName": "Mock Enterprise 37 Pvt. Ltd.",
+    "ownerName": "Owner Name 37",
+    "industryType": "Information Technology (IT/ITES)",
+    "district": "Amravati",
+    "investmentCr": 57,
+    "submittedOn": "2026-08-03",
+    "pan": "AABC0037D",
+    "gst": "27AABC0037D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5038",
+    "companyName": "Mock Enterprise 38 Pvt. Ltd.",
+    "ownerName": "Owner Name 38",
+    "industryType": "Data Centers & Cloud Infrastructure",
+    "district": "Kolhapur",
+    "investmentCr": 58.5,
+    "submittedOn": "2026-08-02",
+    "pan": "AABC0038D",
+    "gst": "27AABC0038D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5039",
+    "companyName": "Mock Enterprise 39 Pvt. Ltd.",
+    "ownerName": "Owner Name 39",
+    "industryType": "Artificial Intelligence & Machine Learning",
+    "district": "Sangli",
+    "investmentCr": 60,
+    "submittedOn": "2026-08-01",
+    "pan": "AABC0039D",
+    "gst": "27AABC0039D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5040",
+    "companyName": "Mock Enterprise 40 Pvt. Ltd.",
+    "ownerName": "Owner Name 40",
+    "industryType": "Automobile & Auto Components",
+    "district": "Pune",
+    "investmentCr": 61.5,
+    "submittedOn": "2026-07-31",
+    "pan": "AABC0040D",
+    "gst": "27AABC0040D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5041",
+    "companyName": "Mock Enterprise 41 Pvt. Ltd.",
+    "ownerName": "Owner Name 41",
+    "industryType": "Textile",
+    "district": "Mumbai",
+    "investmentCr": 63,
+    "submittedOn": "2026-07-30",
+    "pan": "AABC0041D",
+    "gst": "27AABC0041D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5042",
+    "companyName": "Mock Enterprise 42 Pvt. Ltd.",
+    "ownerName": "Owner Name 42",
+    "industryType": "Food Processing / Agro-based",
+    "district": "Nagpur",
+    "investmentCr": 64.5,
+    "submittedOn": "2026-07-29",
+    "pan": "AABC0042D",
+    "gst": "27AABC0042D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5043",
+    "companyName": "Mock Enterprise 43 Pvt. Ltd.",
+    "ownerName": "Owner Name 43",
+    "industryType": "Pharmaceuticals",
+    "district": "Thane",
+    "investmentCr": 66,
+    "submittedOn": "2026-07-28",
+    "pan": "AABC0043D",
+    "gst": "27AABC0043D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5044",
+    "companyName": "Mock Enterprise 44 Pvt. Ltd.",
+    "ownerName": "Owner Name 44",
+    "industryType": "Electronics & Electrical",
+    "district": "Nashik",
+    "investmentCr": 67.5,
+    "submittedOn": "2026-07-27",
+    "pan": "AABC0044D",
+    "gst": "27AABC0044D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5045",
+    "companyName": "Mock Enterprise 45 Pvt. Ltd.",
+    "ownerName": "Owner Name 45",
+    "industryType": "Chemicals",
+    "district": "Chhatrapati Sambhajinagar",
+    "investmentCr": 69,
+    "submittedOn": "2026-07-26",
+    "pan": "AABC0045D",
+    "gst": "27AABC0045D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5046",
+    "companyName": "Mock Enterprise 46 Pvt. Ltd.",
+    "ownerName": "Owner Name 46",
+    "industryType": "General Manufacturing (MSME)",
+    "district": "Solapur",
+    "investmentCr": 70.5,
+    "submittedOn": "2026-07-25",
+    "pan": "AABC0046D",
+    "gst": "27AABC0046D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5047",
+    "companyName": "Mock Enterprise 47 Pvt. Ltd.",
+    "ownerName": "Owner Name 47",
+    "industryType": "Information Technology (IT/ITES)",
+    "district": "Amravati",
+    "investmentCr": 72,
+    "submittedOn": "2026-07-24",
+    "pan": "AABC0047D",
+    "gst": "27AABC0047D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5048",
+    "companyName": "Mock Enterprise 48 Pvt. Ltd.",
+    "ownerName": "Owner Name 48",
+    "industryType": "Data Centers & Cloud Infrastructure",
+    "district": "Kolhapur",
+    "investmentCr": 73.5,
+    "submittedOn": "2026-07-23",
+    "pan": "AABC0048D",
+    "gst": "27AABC0048D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5049",
+    "companyName": "Mock Enterprise 49 Pvt. Ltd.",
+    "ownerName": "Owner Name 49",
+    "industryType": "Artificial Intelligence & Machine Learning",
+    "district": "Sangli",
+    "investmentCr": 75,
+    "submittedOn": "2026-07-22",
+    "pan": "AABC0049D",
+    "gst": "27AABC0049D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5050",
+    "companyName": "Mock Enterprise 50 Pvt. Ltd.",
+    "ownerName": "Owner Name 50",
+    "industryType": "Automobile & Auto Components",
+    "district": "Pune",
+    "investmentCr": 1.5,
+    "submittedOn": "2026-07-21",
+    "pan": "AABC0050D",
+    "gst": "27AABC0050D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5051",
+    "companyName": "Mock Enterprise 51 Pvt. Ltd.",
+    "ownerName": "Owner Name 51",
+    "industryType": "Textile",
+    "district": "Mumbai",
+    "investmentCr": 3,
+    "submittedOn": "2026-07-20",
+    "pan": "AABC0051D",
+    "gst": "27AABC0051D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5052",
+    "companyName": "Mock Enterprise 52 Pvt. Ltd.",
+    "ownerName": "Owner Name 52",
+    "industryType": "Food Processing / Agro-based",
+    "district": "Nagpur",
+    "investmentCr": 4.5,
+    "submittedOn": "2026-07-19",
+    "pan": "AABC0052D",
+    "gst": "27AABC0052D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5053",
+    "companyName": "Mock Enterprise 53 Pvt. Ltd.",
+    "ownerName": "Owner Name 53",
+    "industryType": "Pharmaceuticals",
+    "district": "Thane",
+    "investmentCr": 6,
+    "submittedOn": "2026-07-18",
+    "pan": "AABC0053D",
+    "gst": "27AABC0053D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5054",
+    "companyName": "Mock Enterprise 54 Pvt. Ltd.",
+    "ownerName": "Owner Name 54",
+    "industryType": "Electronics & Electrical",
+    "district": "Nashik",
+    "investmentCr": 7.5,
+    "submittedOn": "2026-07-17",
+    "pan": "AABC0054D",
+    "gst": "27AABC0054D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5055",
+    "companyName": "Mock Enterprise 55 Pvt. Ltd.",
+    "ownerName": "Owner Name 55",
+    "industryType": "Chemicals",
+    "district": "Chhatrapati Sambhajinagar",
+    "investmentCr": 9,
+    "submittedOn": "2026-07-16",
+    "pan": "AABC0055D",
+    "gst": "27AABC0055D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5056",
+    "companyName": "Mock Enterprise 56 Pvt. Ltd.",
+    "ownerName": "Owner Name 56",
+    "industryType": "General Manufacturing (MSME)",
+    "district": "Solapur",
+    "investmentCr": 10.5,
+    "submittedOn": "2026-07-15",
+    "pan": "AABC0056D",
+    "gst": "27AABC0056D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5057",
+    "companyName": "Mock Enterprise 57 Pvt. Ltd.",
+    "ownerName": "Owner Name 57",
+    "industryType": "Information Technology (IT/ITES)",
+    "district": "Amravati",
+    "investmentCr": 12,
+    "submittedOn": "2026-07-14",
+    "pan": "AABC0057D",
+    "gst": "27AABC0057D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "review",
+      "pollution": "approved",
+      "land": "action",
+      "msme": "pending"
+    },
+    "officerRemark": "Needs more information."
+  },
+  {
+    "id": "MH-IND-2026-5058",
+    "companyName": "Mock Enterprise 58 Pvt. Ltd.",
+    "ownerName": "Owner Name 58",
+    "industryType": "Data Centers & Cloud Infrastructure",
+    "district": "Kolhapur",
+    "investmentCr": 13.5,
+    "submittedOn": "2026-07-13",
+    "pan": "AABC0058D",
+    "gst": "27AABC0058D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "approved",
+      "pollution": "action",
+      "land": "pending",
+      "msme": "review"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5059",
+    "companyName": "Mock Enterprise 59 Pvt. Ltd.",
+    "ownerName": "Owner Name 59",
+    "industryType": "Artificial Intelligence & Machine Learning",
+    "district": "Sangli",
+    "investmentCr": 15,
+    "submittedOn": "2026-07-12",
+    "pan": "AABC0059D",
+    "gst": "27AABC0059D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "action",
+      "pollution": "pending",
+      "land": "review",
+      "msme": "approved"
+    },
+    "officerRemark": ""
+  },
+  {
+    "id": "MH-IND-2026-5060",
+    "companyName": "Mock Enterprise 60 Pvt. Ltd.",
+    "ownerName": "Owner Name 60",
+    "industryType": "Automobile & Auto Components",
+    "district": "Pune",
+    "investmentCr": 16.5,
+    "submittedOn": "2026-07-11",
+    "pan": "AABC0060D",
+    "gst": "27AABC0060D1Z5",
+    "documents": [
+      {
+        "name": "PAN_Card.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_pan.pdf"
+      },
+      {
+        "name": "GST_Certificate.pdf",
+        "verified": true,
+        "url": "/uploads/dummy_gst.pdf"
+      }
+    ],
+    "timeline": {
+      "fire": "pending",
+      "pollution": "review",
+      "land": "approved",
+      "msme": "action"
+    },
+    "officerRemark": "Needs more information."
+  }
+]

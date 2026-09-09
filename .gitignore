@@ -1,0 +1,8 @@
+node_modules/
+dist/
+server/node_modules/
+server/uploads/
+server/data/mitra.db
+server/data/mitra.db-journal
+.DS_Store
+.env
