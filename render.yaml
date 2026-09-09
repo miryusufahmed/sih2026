@@ -2,8 +2,9 @@ services:
   - type: web
     name: maha-udyog-mitra
     env: node
+    plan: free
     buildCommand: npm install && npm run build && cd server && npm install
-    startCommand: cd server && npm start
+    startCommand: cd server && node index.js
     envVars:
       - key: NODE_ENV
         value: production
