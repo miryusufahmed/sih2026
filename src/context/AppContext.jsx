@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useMemo, useState, useCallback, useEffect } from 'react';
 import { translations } from '@/i18n/translations';
 
-const API_BASE = 'http://localhost:4000/api';
+const API_BASE = '/api';
 
 const AppContext = createContext(null);
 

@@ -125,9 +125,9 @@ export default function ApplicationDetailDrawer({ app, onClose }) {
                 app.documents.map((doc, idx) => {
                   const docName = typeof doc === 'string' ? doc : (doc.name || doc.filename || `Document ${idx + 1}`);
                   const filename = typeof doc === 'string' ? doc : (doc.filename || doc.name || '');
-                  const fileUrl = filename.startsWith('http://') || filename.startsWith('https://')
+                  const fileUrl = doc.url || (filename.startsWith('http://') || filename.startsWith('https://')
                     ? filename
-                    : `http://localhost:4000/uploads/${encodeURIComponent(filename)}`;
+                    : `/uploads/${encodeURIComponent(filename)}`);
                   const isVerified = typeof doc === 'object' ? doc.verified : false;
 
                   return (

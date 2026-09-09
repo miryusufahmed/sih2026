@@ -183,7 +183,7 @@ export default function ApplicationForm() {
   const runOcrAutofill = async () => {
     setOcrState('scanning');
     try {
-      const res = await fetch('http://localhost:4000/api/ocr/extract', {
+      const res = await fetch('/api/ocr/extract', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
       });
