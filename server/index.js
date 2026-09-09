@@ -11,26 +11,30 @@ import { upload, uploadsDir } from './middleware/upload.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+import { generateValidPdf } from './utils/pdfGenerator.js';
+
 // Ensure uploads/ directory exists
 const localUploadsDir = path.join(__dirname, 'uploads');
 if (!fs.existsSync(localUploadsDir)) {
   fs.mkdirSync(localUploadsDir, { recursive: true });
 }
 
-// Auto-populate mock document PDFs for the demo so "View Document" never 404s
+// Auto-populate valid mock document PDFs for the demo so "View Document" opens cleanly in browser
 const mockPdfs = [
-  'dummy_pan.pdf',
-  'dummy_gst.pdf',
-  'PAN_Card.pdf',
-  'GST_Certificate.pdf',
-  '7_12_Extract.pdf',
-  'Project_Report.pdf',
+  { file: 'dummy_pan.pdf', title: 'PERMANENT ACCOUNT NUMBER (PAN) CARD' },
+  { file: 'dummy_gst.pdf', title: 'GST REGISTRATION CERTIFICATE (FORM GST REG-06)' },
+  { file: 'PAN_Card.pdf', title: 'PERMANENT ACCOUNT NUMBER (PAN) CARD' },
+  { file: 'GST_Certificate.pdf', title: 'GST REGISTRATION CERTIFICATE' },
+  { file: '7_12_Extract.pdf', title: '7/12 EXTRACT - LAND REVENUE RECORD (MAHARASHTRA)' },
+  { file: 'Project_Report.pdf', title: 'DETAILED PROJECT REPORT (DPR) - INDUSTRIAL PROJECT' },
 ];
-for (const f of mockPdfs) {
-  const target = path.join(localUploadsDir, f);
-  if (!fs.existsSync(target)) {
+
+for (const { file, title } of mockPdfs) {
+  const target = path.join(localUploadsDir, file);
+  // Write if missing or if it's the broken older dummy file (< 400 bytes)
+  if (!fs.existsSync(target) || fs.statSync(target).size < 400) {
     try {
-      fs.writeFileSync(target, `%PDF-1.4\n1 0 obj << /Title (${f}) /Creator (Maha-Udyog Mitra SIH26130) >> endobj\ntrailer << /Root 1 0 R >>\n%%EOF`);
+      fs.writeFileSync(target, generateValidPdf(title, 'MH-IND-2026-5001'));
     } catch (_e) {
       // Ignore if write fails
     }

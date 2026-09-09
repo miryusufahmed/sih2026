@@ -1,5 +1,18 @@
-import React from 'react';
-import { Flame, Leaf, MapPinned, Factory, CheckCircle2, Clock4, AlertTriangle, Circle, FileText } from 'lucide-react';
+import React, { useState } from 'react';
+import {
+  Flame,
+  Leaf,
+  MapPinned,
+  Factory,
+  CheckCircle2,
+  Clock4,
+  AlertTriangle,
+  Circle,
+  FileText,
+  UploadCloud,
+  Loader2,
+  Check,
+} from 'lucide-react';
 import { useApp } from '@/context/AppContext';
 import { Card, CardContent, Badge, Progress } from '@/components/ui';
 import { DEPARTMENTS } from '@/data/mockData';
@@ -15,7 +28,11 @@ const STATUS_META = {
 };
 
 export default function ApprovalTracker() {
-  const { t, applications, activeApplicationId } = useApp();
+  const { t, applications, activeApplicationId, uploadDocument, updateDepartmentStatus, fetchApplications } = useApp();
+  const [uploadingDept, setUploadingDept] = useState(null);
+  const [resolvedMsg, setResolvedMsg] = useState(null);
+  const [resolveError, setResolveError] = useState(null);
+
   const app = applications.find((a) => a.id === activeApplicationId) || applications[0];
 
   if (!app) {
@@ -27,6 +44,22 @@ export default function ApprovalTracker() {
     );
   }
 
+  const handleResolveAction = async (deptKey, file) => {
+    if (!file || !app) return;
+    try {
+      setUploadingDept(deptKey);
+      setResolveError(null);
+      await uploadDocument(app.id, file);
+      await updateDepartmentStatus(app.id, deptKey, 'review');
+      if (fetchApplications) await fetchApplications();
+      setResolvedMsg(`Document "${file.name}" uploaded successfully! Status updated to Under Scrutiny.`);
+    } catch (err) {
+      setResolveError(err.message || 'Failed to upload document');
+    } finally {
+      setUploadingDept(null);
+    }
+  };
+
   const statuses = DEPARTMENTS.map((d) => app.timeline[d.key] || 'pending');
   const progressPct = (statuses.filter((s) => s === 'approved').length / DEPARTMENTS.length) * 100;
 
@@ -36,6 +69,29 @@ export default function ApprovalTracker() {
         <h1 className="text-2xl font-bold text-slate-900">{t.tracker.title}</h1>
         <p className="mt-1 text-sm text-slate-500">{t.tracker.subtitle}</p>
       </div>
+
+      {resolvedMsg && (
+        <div className="mb-4 flex items-center justify-between rounded-xl border border-emerald-200 bg-emerald-50 p-3.5 text-xs text-emerald-800">
+          <div className="flex items-center gap-2">
+            <CheckCircle2 size={16} className="text-emerald-600 shrink-0" />
+            <span>{resolvedMsg}</span>
+          </div>
+          <button
+            type="button"
+            onClick={() => setResolvedMsg(null)}
+            className="text-emerald-700 hover:text-emerald-900 font-medium ml-2"
+          >
+            Dismiss
+          </button>
+        </div>
+      )}
+
+      {resolveError && (
+        <div className="mb-4 flex items-center gap-2 rounded-xl border border-red-200 bg-red-50 p-3.5 text-xs text-red-800">
+          <AlertTriangle size={16} className="text-red-600 shrink-0" />
+          <span>{resolveError}</span>
+        </div>
+      )}
 
       <Card className="mb-6">
         <CardContent className="pt-5">
@@ -85,9 +141,47 @@ export default function ApprovalTracker() {
                     </div>
 
                     {status === 'action' && (
-                      <p className="mt-3 rounded-lg bg-red-50 px-3 py-2 text-xs text-red-700">
-                        Missing 7/12 land extract — please re-upload a clear scanned copy.
-                      </p>
+                      <div className="mt-3 rounded-lg border border-red-200 bg-red-50/80 p-3 text-xs">
+                        <div className="flex items-center gap-1.5 font-semibold text-red-800">
+                          <AlertTriangle size={14} className="text-red-600" />
+                          <span>Action Required: Document Missing or Clarification Needed</span>
+                        </div>
+                        <p className="mt-1 text-red-700">
+                          The department requested an updated/clear copy of the required document (e.g. 7/12 Land Extract or Revised NOC) to complete clearance.
+                        </p>
+
+                        <div className="mt-3 flex flex-wrap items-center gap-2 border-t border-red-200/60 pt-2.5">
+                          <label
+                            htmlFor={`resolve-file-${dept.key}`}
+                            className={cn(
+                              'inline-flex cursor-pointer items-center gap-1.5 rounded-lg bg-governance-700 px-3 py-1.5 text-xs font-medium text-white transition hover:bg-governance-800',
+                              uploadingDept === dept.key && 'pointer-events-none opacity-60'
+                            )}
+                          >
+                            {uploadingDept === dept.key ? (
+                              <>
+                                <Loader2 size={13} className="animate-spin" /> Uploading & Resolving...
+                              </>
+                            ) : (
+                              <>
+                                <UploadCloud size={13} /> Upload & Resolve Action
+                              </>
+                            )}
+                          </label>
+                          <input
+                            id={`resolve-file-${dept.key}`}
+                            type="file"
+                            accept=".pdf,.jpg,.jpeg,.png"
+                            className="hidden"
+                            disabled={uploadingDept === dept.key}
+                            onChange={(e) => {
+                              const file = e.target.files?.[0];
+                              if (file) handleResolveAction(dept.key, file);
+                            }}
+                          />
+                          <span className="text-[11px] text-slate-500">PDF, PNG, or JPG (Up to 10MB)</span>
+                        </div>
+                      </div>
                     )}
                     {status === 'review' && (
                       <p className="mt-3 rounded-lg bg-amber-50 px-3 py-2 text-xs text-amber-700">

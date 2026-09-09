@@ -19,6 +19,7 @@ import Button from '@/components/ui/Button';
 import { cn } from '@/lib/utils';
 import { DISTRICTS, INDUSTRY_TYPES } from '@/data/schemes';
 import { MOCK_OCR_RESULT } from '@/data/mockData';
+import { createMockPdfFile } from '@/lib/pdfHelper';
 
 const STEPS = ['step1', 'step2', 'step3'];
 
@@ -148,6 +149,7 @@ export default function ApplicationForm() {
     isGstValid
   );
   const canProceedStep2 = Boolean(form.district && form.village && form.plotArea);
+  const canProceedStep3 = Boolean(docFiles.panDocument && docFiles.gstDocument);
 
   const handleSingleFile = (key, file) => {
     if (!file) return;
@@ -217,11 +219,11 @@ export default function ApplicationForm() {
 
     setTouched({ pan: true, gst: true });
 
-    // Provide mock demo files for documents
-    const mockPan = new File(['%PDF-1.4 Mock PAN Document'], 'PAN_Card.pdf', { type: 'application/pdf' });
-    const mockGst = new File(['%PDF-1.4 Mock GST Certificate'], 'GST_Certificate.pdf', { type: 'application/pdf' });
-    const mockLand = new File(['%PDF-1.4 Mock 7/12 Extract Document'], '7_12_Extract.pdf', { type: 'application/pdf' });
-    const mockProject = new File(['%PDF-1.4 Mock DPR Project Report'], 'Project_Report.pdf', { type: 'application/pdf' });
+    // Provide valid PDF demo files for documents
+    const mockPan = createMockPdfFile('PERMANENT ACCOUNT NUMBER (PAN) CARD', 'PAN_Card.pdf');
+    const mockGst = createMockPdfFile('GST REGISTRATION CERTIFICATE', 'GST_Certificate.pdf');
+    const mockLand = createMockPdfFile('7/12 EXTRACT - LAND REVENUE RECORD', '7_12_Extract.pdf');
+    const mockProject = createMockPdfFile('DETAILED PROJECT REPORT (DPR)', 'Project_Report.pdf');
 
     setDocFiles((prev) => ({
       panDocument: prev.panDocument || mockPan,
@@ -234,6 +236,11 @@ export default function ApplicationForm() {
   };
 
   const handleSubmit = async () => {
+    if (!docFiles.panDocument || !docFiles.gstDocument) {
+      setSubmitError('Both PAN Card Document and GST Registration Certificate are mandatory to submit this application.');
+      return;
+    }
+
     setIsSubmitting(true);
     setSubmitError(null);
 
@@ -560,6 +567,7 @@ export default function ApplicationForm() {
                           name={slot.key}
                           data-testid={slot.key}
                           type="file"
+                          accept=".pdf,.jpg,.jpeg,.png"
                           className="hidden"
                           onChange={(e) => handleSingleFile(slot.key, e.target.files?.[0])}
                         />
@@ -609,6 +617,16 @@ export default function ApplicationForm() {
                 )}
               </div>
 
+              {/* Mandatory document requirement alert */}
+              {!canProceedStep3 && (
+                <div className="mt-4 flex items-center gap-2 rounded-lg bg-amber-50 p-3 text-xs text-amber-800 ring-1 ring-amber-200">
+                  <AlertCircle size={16} className="shrink-0 text-amber-600" />
+                  <span>
+                    <strong>Mandatory Documents:</strong> Both <strong>PAN Card Document</strong> and <strong>GST Registration Certificate</strong> are required to submit (or click &quot;Run OCR Autofill&quot; for demo).
+                  </span>
+                </div>
+              )}
+
               {/* Submission error feedback */}
               {submitError && (
                 <div className="rounded-lg border border-red-200 bg-red-50 p-3 text-xs text-red-700 flex items-center gap-2">
@@ -636,7 +654,12 @@ export default function ApplicationForm() {
                 {t.form.next} <ChevronRight size={16} />
               </Button>
             ) : (
-              <Button variant="saffron" onClick={handleSubmit} disabled={isSubmitting}>
+              <Button
+                variant="saffron"
+                onClick={handleSubmit}
+                disabled={!canProceedStep3 || isSubmitting}
+                title={!canProceedStep3 ? 'Please upload mandatory PAN and GST documents' : ''}
+              >
                 {isSubmitting ? (
                   <>
                     <Loader2 size={16} className="animate-spin" /> Submitting...

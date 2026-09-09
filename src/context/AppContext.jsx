@@ -135,6 +135,35 @@ export function AppProvider({ children }) {
     }
   }, []);
 
+  const uploadDocument = useCallback(async (appId, file) => {
+    try {
+      const formData = new FormData();
+      formData.append('document', file);
+      const res = await fetch(`${API_BASE}/applications/${appId}/documents`, {
+        method: 'POST',
+        body: formData,
+      });
+
+      if (!res.ok) {
+        let errMessage = `Failed to upload document (${res.status})`;
+        try {
+          const errData = await res.json();
+          if (errData.error) errMessage = errData.error;
+        } catch {}
+        throw new Error(errMessage);
+      }
+
+      const updated = await res.json();
+      setApplications((prev) =>
+        prev.map((app) => (app.id === appId ? updated : app))
+      );
+      return updated;
+    } catch (err) {
+      console.error('Error uploading document:', err);
+      throw err;
+    }
+  }, []);
+
   const value = useMemo(
     () => ({
       lang,
@@ -148,6 +177,7 @@ export function AppProvider({ children }) {
       addApplication,
       updateDepartmentStatus,
       updateApplicationDecision,
+      uploadDocument,
       activeApplicationId,
       setActiveApplicationId,
       loading,
@@ -165,6 +195,7 @@ export function AppProvider({ children }) {
       addApplication,
       updateDepartmentStatus,
       updateApplicationDecision,
+      uploadDocument,
       activeApplicationId,
       loading,
       error,

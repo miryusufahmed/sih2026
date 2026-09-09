@@ -80,6 +80,20 @@ router.post('/', uploadFields, (req, res) => {
 
   const allDocuments = [...uploadedDocs, ...bodyDocs];
 
+  // Enforce mandatory documents
+  const hasPanDoc =
+    (req.files && req.files.panDocument && req.files.panDocument.length > 0) ||
+    allDocuments.some((d) => d.field === 'panDocument' || (d.name && d.name.toLowerCase().includes('pan')));
+  const hasGstDoc =
+    (req.files && req.files.gstDocument && req.files.gstDocument.length > 0) ||
+    allDocuments.some((d) => d.field === 'gstDocument' || (d.name && d.name.toLowerCase().includes('gst')));
+
+  if (!hasPanDoc || !hasGstDoc) {
+    return res.status(400).json({
+      error: 'PAN Card Document and GST Registration Certificate are mandatory for application submission.',
+    });
+  }
+
   const payload = {
     ...req.body,
     documents: allDocuments,
