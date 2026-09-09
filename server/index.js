@@ -16,11 +16,24 @@ const localUploadsDir = path.join(__dirname, 'uploads');
 if (!fs.existsSync(localUploadsDir)) {
   fs.mkdirSync(localUploadsDir, { recursive: true });
 }
-if (!fs.existsSync('uploads')) {
-  try {
-    fs.mkdirSync('uploads', { recursive: true });
-  } catch (_err) {
-    // Ignore if already created
+
+// Auto-populate mock document PDFs for the demo so "View Document" never 404s
+const mockPdfs = [
+  'dummy_pan.pdf',
+  'dummy_gst.pdf',
+  'PAN_Card.pdf',
+  'GST_Certificate.pdf',
+  '7_12_Extract.pdf',
+  'Project_Report.pdf',
+];
+for (const f of mockPdfs) {
+  const target = path.join(localUploadsDir, f);
+  if (!fs.existsSync(target)) {
+    try {
+      fs.writeFileSync(target, `%PDF-1.4\n1 0 obj << /Title (${f}) /Creator (Maha-Udyog Mitra SIH26130) >> endobj\ntrailer << /Root 1 0 R >>\n%%EOF`);
+    } catch (_e) {
+      // Ignore if write fails
+    }
   }
 }
 
@@ -68,7 +81,7 @@ app.get('*', (req, res, next) => {
 
 // Only listen if this module is run directly
 if (process.env.NODE_ENV !== 'test') {
-  app.listen(PORT, () => {
-    console.log(`Maha-Udyog Mitra mock API listening on http://localhost:${PORT}`);
+  app.listen(PORT, '0.0.0.0', () => {
+    console.log(`Maha-Udyog Mitra API listening on http://0.0.0.0:${PORT}`);
   });
 }
