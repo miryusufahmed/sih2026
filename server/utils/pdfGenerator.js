@@ -19,7 +19,7 @@ export function generateValidPdf(title, caseId = 'MH-IND-2026-DEMO', details = {
     '0 -18 Td',
     '(Document Status: Validated & Digitally Archived by Directorate of Industries) Tj',
     '0 -18 Td',
-    '(Issuing Authority: Government of Maharashtra - SIH26130 Fast-Track Portal) Tj',
+    '(Issuing Authority: Government of Maharashtra - Udyam Setu Portal) Tj',
   ];
 
   if (details.pan) {

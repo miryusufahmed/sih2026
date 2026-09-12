@@ -1,4 +1,4 @@
-# Maha-Udyog Mitra — SIH26130 Prototype
+# Udyam Setu — Single-Window Fast-Track System
 
 Single-window digital fast-track system for industrial approvals, compliance,
 and automated subsidy matching. Built for Smart India Hackathon 2026,

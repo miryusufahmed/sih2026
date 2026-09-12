@@ -59,7 +59,7 @@ app.use((req, _res, next) => {
   next();
 });
 
-app.get('/health', (_req, res) => res.json({ status: 'ok', service: 'maha-udyog-mitra-api' }));
+app.get('/health', (_req, res) => res.json({ status: 'ok', service: 'udyam-setu-api' }));
 
 app.use('/api/applications', applicationsRouter);
 app.use('/api/schemes', schemesRouter);
@@ -86,6 +86,6 @@ app.get('*', (req, res, next) => {
 // Only listen if this module is run directly
 if (process.env.NODE_ENV !== 'test') {
   app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Maha-Udyog Mitra API listening on http://0.0.0.0:${PORT}`);
+    console.log(`Udyam Setu API listening on http://0.0.0.0:${PORT}`);
   });
 }

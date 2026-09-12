@@ -1,6 +1,6 @@
 export const translations = {
   en: {
-    appName: 'Maha-Udyog Mitra',
+    appName: 'Udyam Setu',
     appTagline: 'Single Window Industrial Clearance System',
     govLine: 'Government of Maharashtra · Directorate of Industries',
     nav: {
@@ -128,7 +128,7 @@ export const translations = {
     },
   },
   mr: {
-    appName: 'महा-उद्योग मित्र',
+    appName: 'उद्यम सेतू',
     appTagline: 'एकल खिडकी औद्योगिक मंजुरी प्रणाली',
     govLine: 'महाराष्ट्र शासन · उद्योग संचालनालय',
     nav: {

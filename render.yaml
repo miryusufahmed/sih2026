@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: maha-udyog-mitra
+    name: udyam-setu
     env: node
     plan: free
     buildCommand: npm install --include=dev && npm run build && cd server && npm install

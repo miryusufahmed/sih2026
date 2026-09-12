@@ -1,9 +1,9 @@
 {
-  "name": "maha-udyog-mitra",
+  "name": "udyam-setu",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "SIH26130 - Single-Window Digital Fast-Track System for Industrial Approvals (Govt. of Maharashtra)",
+  "description": "Udyam Setu - Single-Window Digital Fast-Track System for Industrial Approvals (Govt. of Maharashtra)",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

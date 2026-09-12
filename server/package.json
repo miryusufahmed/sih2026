@@ -1,9 +1,9 @@
 {
-  "name": "maha-udyog-mitra-api",
+  "name": "udyam-setu-api",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Optional Express mock API for SIH26130 — mirrors the in-browser mock so the frontend can be pointed at a real backend with zero component changes.",
+  "description": "Express API for Udyam Setu — Single-Window Fast-Track Industrial Clearance System.",
   "scripts": {
     "start": "node index.js",
     "dev": "node --watch index.js",
